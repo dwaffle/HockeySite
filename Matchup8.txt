@@ -1,0 +1,109 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "teams" : [ {
+    "id" : 8,
+    "name" : "Montréal Canadiens",
+    "link" : "/api/v1/teams/8",
+    "venue" : {
+      "id" : 5028,
+      "name" : "Bell Centre",
+      "link" : "/api/v1/venues/5028",
+      "city" : "Montréal",
+      "timeZone" : {
+        "id" : "America/Montreal",
+        "offset" : -4,
+        "tz" : "EDT"
+      }
+    },
+    "abbreviation" : "MTL",
+    "teamName" : "Canadiens",
+    "locationName" : "Montréal",
+    "firstYearOfPlay" : "1909",
+    "division" : {
+      "id" : 28,
+      "name" : "Scotia North",
+      "link" : "/api/v1/divisions/28"
+    },
+    "conference" : {
+      "id" : 6,
+      "name" : "Eastern",
+      "link" : "/api/v1/conferences/6"
+    },
+    "franchise" : {
+      "franchiseId" : 1,
+      "teamName" : "Canadiens",
+      "link" : "/api/v1/franchises/1"
+    },
+    "nextGameSchedule" : {
+      "totalItems" : 1,
+      "totalEvents" : 0,
+      "totalGames" : 1,
+      "totalMatches" : 0,
+      "dates" : [ {
+        "date" : "2021-04-23",
+        "totalItems" : 1,
+        "totalEvents" : 0,
+        "totalGames" : 1,
+        "totalMatches" : 0,
+        "games" : [ {
+          "gamePk" : 2020020736,
+          "link" : "/api/v1/game/2020020736/feed/live",
+          "gameType" : "R",
+          "season" : "20202021",
+          "gameDate" : "2021-04-24T01:00:00Z",
+          "status" : {
+            "abstractGameState" : "Live",
+            "codedGameState" : "3",
+            "detailedState" : "In Progress",
+            "statusCode" : "3",
+            "startTimeTBD" : false
+          },
+          "teams" : {
+            "away" : {
+              "leagueRecord" : {
+                "wins" : 20,
+                "losses" : 15,
+                "ot" : 9,
+                "type" : "league"
+              },
+              "score" : 2,
+              "team" : {
+                "id" : 8,
+                "name" : "Montréal Canadiens",
+                "link" : "/api/v1/teams/8"
+              }
+            },
+            "home" : {
+              "leagueRecord" : {
+                "wins" : 19,
+                "losses" : 23,
+                "ot" : 3,
+                "type" : "league"
+              },
+              "score" : 2,
+              "team" : {
+                "id" : 20,
+                "name" : "Calgary Flames",
+                "link" : "/api/v1/teams/20"
+              }
+            }
+          },
+          "venue" : {
+            "id" : 5075,
+            "name" : "Scotiabank Saddledome",
+            "link" : "/api/v1/venues/5075"
+          },
+          "content" : {
+            "link" : "/api/v1/game/2020020736/content"
+          }
+        } ],
+        "events" : [ ],
+        "matches" : [ ]
+      } ]
+    },
+    "shortName" : "Montréal",
+    "officialSiteUrl" : "http://www.canadiens.com/",
+    "franchiseId" : 1,
+    "active" : true
+  } ]
+}

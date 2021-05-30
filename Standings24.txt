@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 47,
+        "wins" : 14,
+        "losses" : 26,
+        "ot" : 7,
+        "pts" : 35,
+        "ptPctg" : "37.2",
+        "goalsPerGame" : 2.191,
+        "goalsAgainstPerGame" : 3.17,
+        "evGGARatio" : 0.7788,
+        "powerPlayPercentage" : "10.3",
+        "powerPlayGoals" : 11.0,
+        "powerPlayGoalsAgainst" : 29.0,
+        "powerPlayOpportunities" : 107.0,
+        "penaltyKillPercentage" : "79.3",
+        "shotsPerGame" : 26.8723,
+        "shotsAllowed" : 31.0,
+        "winScoreFirst" : 0.478,
+        "winOppScoreFirst" : 0.125,
+        "winLeadFirstPer" : 0.533,
+        "winLeadSecondPer" : 0.667,
+        "winOutshootOpp" : 0.25,
+        "winOutshotByOpp" : 0.333,
+        "faceOffsTaken" : 2636.0,
+        "faceOffsWon" : 1346.0,
+        "faceOffsLost" : 1290.0,
+        "faceOffWinPercentage" : "51.1",
+        "shootingPctg" : 8.2,
+        "savePctg" : 0.898
+      },
+      "team" : {
+        "id" : 24,
+        "name" : "Anaheim Ducks",
+        "link" : "/api/v1/teams/24"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "29th",
+        "losses" : "30th",
+        "ot" : "6th",
+        "pts" : "29th",
+        "ptPctg" : "30th",
+        "goalsPerGame" : "31st",
+        "goalsAgainstPerGame" : "24th",
+        "evGGARatio" : "26th",
+        "powerPlayPercentage" : "31st",
+        "powerPlayGoals" : "31st",
+        "powerPlayGoalsAgainst" : "20th",
+        "powerPlayOpportunities" : "30th",
+        "penaltyKillOpportunities" : "22nd",
+        "penaltyKillPercentage" : "17th",
+        "shotsPerGame" : "30th",
+        "shotsAllowed" : "23rd",
+        "winScoreFirst" : "27th",
+        "winOppScoreFirst" : "29th",
+        "winLeadFirstPer" : "29th",
+        "winLeadSecondPer" : "30th",
+        "winOutshootOpp" : "30th",
+        "winOutshotByOpp" : "30th",
+        "faceOffsTaken" : "5th",
+        "faceOffsWon" : "6th",
+        "faceOffsLost" : "17th",
+        "faceOffWinPercentage" : "12th",
+        "savePctRank" : "23rd",
+        "shootingPctRank" : "30th"
+      },
+      "team" : {
+        "id" : 24,
+        "name" : "Anaheim Ducks",
+        "link" : "/api/v1/teams/24"
+      }
+    } ]
+  } ]
+}

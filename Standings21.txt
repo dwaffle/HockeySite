@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 43,
+        "wins" : 30,
+        "losses" : 9,
+        "ot" : 4,
+        "pts" : 64,
+        "ptPctg" : "74.4",
+        "goalsPerGame" : 3.581,
+        "goalsAgainstPerGame" : 2.326,
+        "evGGARatio" : 1.5455,
+        "powerPlayPercentage" : "23.6",
+        "powerPlayGoals" : 38.0,
+        "powerPlayGoalsAgainst" : 24.0,
+        "powerPlayOpportunities" : 161.0,
+        "penaltyKillPercentage" : "82.7",
+        "shotsPerGame" : 34.814,
+        "shotsAllowed" : 25.6279,
+        "winScoreFirst" : 0.839,
+        "winOppScoreFirst" : 0.333,
+        "winLeadFirstPer" : 0.85,
+        "winLeadSecondPer" : 0.96,
+        "winOutshootOpp" : 0.735,
+        "winOutshotByOpp" : 0.556,
+        "faceOffsTaken" : 2524.0,
+        "faceOffsWon" : 1307.0,
+        "faceOffsLost" : 1217.0,
+        "faceOffWinPercentage" : "51.8",
+        "shootingPctg" : 10.3,
+        "savePctg" : 0.909
+      },
+      "team" : {
+        "id" : 21,
+        "name" : "Colorado Avalanche",
+        "link" : "/api/v1/teams/21"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "5th",
+        "losses" : "1st",
+        "ot" : "20th",
+        "pts" : "4th",
+        "ptPctg" : "1st",
+        "goalsPerGame" : "1st",
+        "goalsAgainstPerGame" : "3rd",
+        "evGGARatio" : "1st",
+        "powerPlayPercentage" : "7th",
+        "powerPlayGoals" : "2nd",
+        "powerPlayGoalsAgainst" : "9th",
+        "powerPlayOpportunities" : "1st",
+        "penaltyKillOpportunities" : "14th",
+        "penaltyKillPercentage" : "9th",
+        "shotsPerGame" : "1st",
+        "shotsAllowed" : "1st",
+        "winScoreFirst" : "1st",
+        "winOppScoreFirst" : "23rd",
+        "winLeadFirstPer" : "4th",
+        "winLeadSecondPer" : "2nd",
+        "winOutshootOpp" : "3rd",
+        "winOutshotByOpp" : "3rd",
+        "faceOffsTaken" : "22nd",
+        "faceOffsWon" : "11th",
+        "faceOffsLost" : "7th",
+        "faceOffWinPercentage" : "6th",
+        "savePctRank" : "10th",
+        "shootingPctRank" : "10th"
+      },
+      "team" : {
+        "id" : 21,
+        "name" : "Colorado Avalanche",
+        "link" : "/api/v1/teams/21"
+      }
+    } ]
+  } ]
+}

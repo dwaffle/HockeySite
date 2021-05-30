@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 27,
+        "losses" : 16,
+        "ot" : 3,
+        "pts" : 57,
+        "ptPctg" : "62.0",
+        "goalsPerGame" : 3.196,
+        "goalsAgainstPerGame" : 2.674,
+        "evGGARatio" : 1.122,
+        "powerPlayPercentage" : "25.7",
+        "powerPlayGoals" : 35.0,
+        "powerPlayGoalsAgainst" : 24.0,
+        "powerPlayOpportunities" : 136.0,
+        "penaltyKillPercentage" : "80.5",
+        "shotsPerGame" : 29.7609,
+        "shotsAllowed" : 30.8696,
+        "winScoreFirst" : 0.708,
+        "winOppScoreFirst" : 0.455,
+        "winLeadFirstPer" : 0.778,
+        "winLeadSecondPer" : 0.85,
+        "winOutshootOpp" : 0.565,
+        "winOutshotByOpp" : 0.65,
+        "faceOffsTaken" : 2456.0,
+        "faceOffsWon" : 1218.0,
+        "faceOffsLost" : 1238.0,
+        "faceOffWinPercentage" : "49.6",
+        "shootingPctg" : 10.7,
+        "savePctg" : 0.913
+      },
+      "team" : {
+        "id" : 52,
+        "name" : "Winnipeg Jets",
+        "link" : "/api/v1/teams/52"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "12th",
+        "losses" : "14th",
+        "ot" : "25th",
+        "pts" : "12th",
+        "ptPctg" : "13th",
+        "goalsPerGame" : "9th",
+        "goalsAgainstPerGame" : "11th",
+        "evGGARatio" : "14th",
+        "powerPlayPercentage" : "4th",
+        "powerPlayGoals" : "6th",
+        "powerPlayGoalsAgainst" : "9th",
+        "powerPlayOpportunities" : "18th",
+        "penaltyKillOpportunities" : "6th",
+        "penaltyKillPercentage" : "12th",
+        "shotsPerGame" : "17th",
+        "shotsAllowed" : "21st",
+        "winScoreFirst" : "13th",
+        "winOppScoreFirst" : "7th",
+        "winLeadFirstPer" : "13th",
+        "winLeadSecondPer" : "18th",
+        "winOutshootOpp" : "12th",
+        "winOutshotByOpp" : "12th",
+        "faceOffsTaken" : "27th",
+        "faceOffsWon" : "26th",
+        "faceOffsLost" : "9th",
+        "faceOffWinPercentage" : "20th",
+        "savePctRank" : "5th",
+        "shootingPctRank" : "7th"
+      },
+      "team" : {
+        "id" : 52,
+        "name" : "Winnipeg Jets",
+        "link" : "/api/v1/teams/52"
+      }
+    } ]
+  } ]
+}

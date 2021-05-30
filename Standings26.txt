@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 43,
+        "wins" : 17,
+        "losses" : 20,
+        "ot" : 6,
+        "pts" : 40,
+        "ptPctg" : "46.5",
+        "goalsPerGame" : 2.721,
+        "goalsAgainstPerGame" : 2.953,
+        "evGGARatio" : 0.8636,
+        "powerPlayPercentage" : "21.0",
+        "powerPlayGoals" : 30.0,
+        "powerPlayGoalsAgainst" : 19.0,
+        "powerPlayOpportunities" : 143.0,
+        "penaltyKillPercentage" : "84.9",
+        "shotsPerGame" : 29.3953,
+        "shotsAllowed" : 31.186,
+        "winScoreFirst" : 0.765,
+        "winOppScoreFirst" : 0.154,
+        "winLeadFirstPer" : 0.818,
+        "winLeadSecondPer" : 0.857,
+        "winOutshootOpp" : 0.4,
+        "winOutshotByOpp" : 0.333,
+        "faceOffsTaken" : 2292.0,
+        "faceOffsWon" : 1180.0,
+        "faceOffsLost" : 1112.0,
+        "faceOffWinPercentage" : "51.5",
+        "shootingPctg" : 9.3,
+        "savePctg" : 0.905
+      },
+      "team" : {
+        "id" : 26,
+        "name" : "Los Angeles Kings",
+        "link" : "/api/v1/teams/26"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "25th",
+        "losses" : "21st",
+        "ot" : "11th",
+        "pts" : "24th",
+        "ptPctg" : "23rd",
+        "goalsPerGame" : "20th",
+        "goalsAgainstPerGame" : "18th",
+        "evGGARatio" : "21st",
+        "powerPlayPercentage" : "13th",
+        "powerPlayGoals" : "13th",
+        "powerPlayGoalsAgainst" : "2nd",
+        "powerPlayOpportunities" : "10th",
+        "penaltyKillOpportunities" : "8th",
+        "penaltyKillPercentage" : "3rd",
+        "shotsPerGame" : "21st",
+        "shotsAllowed" : "25th",
+        "winScoreFirst" : "21st",
+        "winOppScoreFirst" : "26th",
+        "winLeadFirstPer" : "8th",
+        "winLeadSecondPer" : "17th",
+        "winOutshootOpp" : "23rd",
+        "winOutshotByOpp" : "23rd",
+        "faceOffsTaken" : "30th",
+        "faceOffsWon" : "29th",
+        "faceOffsLost" : "3rd",
+        "faceOffWinPercentage" : "9th",
+        "savePctRank" : "16th",
+        "shootingPctRank" : "19th"
+      },
+      "team" : {
+        "id" : 26,
+        "name" : "Los Angeles Kings",
+        "link" : "/api/v1/teams/26"
+      }
+    } ]
+  } ]
+}

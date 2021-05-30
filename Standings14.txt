@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 30,
+        "losses" : 14,
+        "ot" : 2,
+        "pts" : 62,
+        "ptPctg" : "67.4",
+        "goalsPerGame" : 3.304,
+        "goalsAgainstPerGame" : 2.609,
+        "evGGARatio" : 1.2237,
+        "powerPlayPercentage" : "25.2",
+        "powerPlayGoals" : 36.0,
+        "powerPlayGoalsAgainst" : 26.0,
+        "powerPlayOpportunities" : 143.0,
+        "penaltyKillPercentage" : "82.8",
+        "shotsPerGame" : 30.2391,
+        "shotsAllowed" : 28.6957,
+        "winScoreFirst" : 0.773,
+        "winOppScoreFirst" : 0.542,
+        "winLeadFirstPer" : 0.895,
+        "winLeadSecondPer" : 1.0,
+        "winOutshootOpp" : 0.625,
+        "winOutshotByOpp" : 0.667,
+        "faceOffsTaken" : 2580.0,
+        "faceOffsWon" : 1285.0,
+        "faceOffsLost" : 1295.0,
+        "faceOffWinPercentage" : "49.8",
+        "shootingPctg" : 10.9,
+        "savePctg" : 0.909
+      },
+      "team" : {
+        "id" : 14,
+        "name" : "Tampa Bay Lightning",
+        "link" : "/api/v1/teams/14"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "5th",
+        "losses" : "10th",
+        "ot" : "29th",
+        "pts" : "7th",
+        "ptPctg" : "8th",
+        "goalsPerGame" : "5th",
+        "goalsAgainstPerGame" : "8th",
+        "evGGARatio" : "11th",
+        "powerPlayPercentage" : "5th",
+        "powerPlayGoals" : "4th",
+        "powerPlayGoalsAgainst" : "13th",
+        "powerPlayOpportunities" : "9th",
+        "penaltyKillOpportunities" : "28th",
+        "penaltyKillPercentage" : "8th",
+        "shotsPerGame" : "9th",
+        "shotsAllowed" : "9th",
+        "winScoreFirst" : "11th",
+        "winOppScoreFirst" : "2nd",
+        "winLeadFirstPer" : "2nd",
+        "winLeadSecondPer" : "1st",
+        "winOutshootOpp" : "7th",
+        "winOutshotByOpp" : "7th",
+        "faceOffsTaken" : "14th",
+        "faceOffsWon" : "12th",
+        "faceOffsLost" : "18th",
+        "faceOffWinPercentage" : "18th",
+        "savePctRank" : "11th",
+        "shootingPctRank" : "5th"
+      },
+      "team" : {
+        "id" : 14,
+        "name" : "Tampa Bay Lightning",
+        "link" : "/api/v1/teams/14"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 29,
+        "losses" : 13,
+        "ot" : 4,
+        "pts" : 62,
+        "ptPctg" : "67.4",
+        "goalsPerGame" : 3.5,
+        "goalsAgainstPerGame" : 3.022,
+        "evGGARatio" : 1.2283,
+        "powerPlayPercentage" : "27.6",
+        "powerPlayGoals" : 35.0,
+        "powerPlayGoalsAgainst" : 23.0,
+        "powerPlayOpportunities" : 127.0,
+        "penaltyKillPercentage" : "83.5",
+        "shotsPerGame" : 28.6522,
+        "shotsAllowed" : 29.413,
+        "winScoreFirst" : 0.741,
+        "winOppScoreFirst" : 0.474,
+        "winLeadFirstPer" : 0.684,
+        "winLeadSecondPer" : 0.92,
+        "winOutshootOpp" : 0.636,
+        "winOutshotByOpp" : 0.571,
+        "faceOffsTaken" : 2596.0,
+        "faceOffsWon" : 1266.0,
+        "faceOffsLost" : 1330.0,
+        "faceOffWinPercentage" : "48.8",
+        "shootingPctg" : 12.2,
+        "savePctg" : 0.897
+      },
+      "team" : {
+        "id" : 15,
+        "name" : "Washington Capitals",
+        "link" : "/api/v1/teams/15"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "7th",
+        "losses" : "7th",
+        "ot" : "21st",
+        "pts" : "6th",
+        "ptPctg" : "7th",
+        "goalsPerGame" : "2nd",
+        "goalsAgainstPerGame" : "19th",
+        "evGGARatio" : "9th",
+        "powerPlayPercentage" : "1st",
+        "powerPlayGoals" : "5th",
+        "powerPlayGoalsAgainst" : "7th",
+        "powerPlayOpportunities" : "24th",
+        "penaltyKillOpportunities" : "20th",
+        "penaltyKillPercentage" : "7th",
+        "shotsPerGame" : "26th",
+        "shotsAllowed" : "13th",
+        "winScoreFirst" : "6th",
+        "winOppScoreFirst" : "9th",
+        "winLeadFirstPer" : "24th",
+        "winLeadSecondPer" : "7th",
+        "winOutshootOpp" : "6th",
+        "winOutshotByOpp" : "6th",
+        "faceOffsTaken" : "11th",
+        "faceOffsWon" : "14th",
+        "faceOffsLost" : "23rd",
+        "faceOffWinPercentage" : "22nd",
+        "savePctRank" : "24th",
+        "shootingPctRank" : "1st"
+      },
+      "team" : {
+        "id" : 15,
+        "name" : "Washington Capitals",
+        "link" : "/api/v1/teams/15"
+      }
+    } ]
+  } ]
+}

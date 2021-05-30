@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 19,
+        "losses" : 15,
+        "ot" : 12,
+        "pts" : 50,
+        "ptPctg" : "54.3",
+        "goalsPerGame" : 2.848,
+        "goalsAgainstPerGame" : 2.478,
+        "evGGARatio" : 1.1714,
+        "powerPlayPercentage" : "24.6",
+        "powerPlayGoals" : 34.0,
+        "powerPlayGoalsAgainst" : 26.0,
+        "powerPlayOpportunities" : 138.0,
+        "penaltyKillPercentage" : "79.4",
+        "shotsPerGame" : 29.7609,
+        "shotsAllowed" : 26.9348,
+        "winScoreFirst" : 0.625,
+        "winOppScoreFirst" : 0.182,
+        "winLeadFirstPer" : 0.714,
+        "winLeadSecondPer" : 0.842,
+        "winOutshootOpp" : 0.433,
+        "winOutshotByOpp" : 0.375,
+        "faceOffsTaken" : 2687.0,
+        "faceOffsWon" : 1373.0,
+        "faceOffsLost" : 1314.0,
+        "faceOffWinPercentage" : "51.1",
+        "shootingPctg" : 9.6,
+        "savePctg" : 0.908
+      },
+      "team" : {
+        "id" : 25,
+        "name" : "Dallas Stars",
+        "link" : "/api/v1/teams/25"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "20th",
+        "losses" : "12th",
+        "ot" : "1st",
+        "pts" : "16th",
+        "ptPctg" : "16th",
+        "goalsPerGame" : "14th",
+        "goalsAgainstPerGame" : "6th",
+        "evGGARatio" : "12th",
+        "powerPlayPercentage" : "6th",
+        "powerPlayGoals" : "7th",
+        "powerPlayGoalsAgainst" : "14th",
+        "powerPlayOpportunities" : "17th",
+        "penaltyKillOpportunities" : "7th",
+        "penaltyKillPercentage" : "17th",
+        "shotsPerGame" : "18th",
+        "shotsAllowed" : "2nd",
+        "winScoreFirst" : "17th",
+        "winOppScoreFirst" : "24th",
+        "winLeadFirstPer" : "18th",
+        "winLeadSecondPer" : "20th",
+        "winOutshootOpp" : "20th",
+        "winOutshotByOpp" : "20th",
+        "faceOffsTaken" : "5th",
+        "faceOffsWon" : "6th",
+        "faceOffsLost" : "18th",
+        "faceOffWinPercentage" : "11th",
+        "savePctRank" : "13th",
+        "shootingPctRank" : "12th"
+      },
+      "team" : {
+        "id" : 25,
+        "name" : "Dallas Stars",
+        "link" : "/api/v1/teams/25"
+      }
+    } ]
+  } ]
+}

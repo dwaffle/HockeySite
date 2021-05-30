@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 45,
+        "wins" : 27,
+        "losses" : 12,
+        "ot" : 6,
+        "pts" : 60,
+        "ptPctg" : "66.7",
+        "goalsPerGame" : 2.844,
+        "goalsAgainstPerGame" : 2.422,
+        "evGGARatio" : 1.0526,
+        "powerPlayPercentage" : "21.0",
+        "powerPlayGoals" : 29.0,
+        "powerPlayGoalsAgainst" : 21.0,
+        "powerPlayOpportunities" : 138.0,
+        "penaltyKillPercentage" : "86.7",
+        "shotsPerGame" : 32.6222,
+        "shotsAllowed" : 27.7333,
+        "winScoreFirst" : 0.731,
+        "winOppScoreFirst" : 0.421,
+        "winLeadFirstPer" : 0.889,
+        "winLeadSecondPer" : 0.9,
+        "winOutshootOpp" : 0.621,
+        "winOutshotByOpp" : 0.5,
+        "faceOffsTaken" : 2545.0,
+        "faceOffsWon" : 1414.0,
+        "faceOffsLost" : 1131.0,
+        "faceOffWinPercentage" : "55.6",
+        "shootingPctg" : 8.7,
+        "savePctg" : 0.913
+      },
+      "team" : {
+        "id" : 6,
+        "name" : "Boston Bruins",
+        "link" : "/api/v1/teams/6"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "11th",
+        "losses" : "4th",
+        "ot" : "8th",
+        "pts" : "11th",
+        "ptPctg" : "11th",
+        "goalsPerGame" : "15th",
+        "goalsAgainstPerGame" : "5th",
+        "evGGARatio" : "15th",
+        "powerPlayPercentage" : "11th",
+        "powerPlayGoals" : "15th",
+        "powerPlayGoalsAgainst" : "4th",
+        "powerPlayOpportunities" : "16th",
+        "penaltyKillOpportunities" : "31st",
+        "penaltyKillPercentage" : "1st",
+        "shotsPerGame" : "4th",
+        "shotsAllowed" : "4th",
+        "winScoreFirst" : "8th",
+        "winOppScoreFirst" : "15th",
+        "winLeadFirstPer" : "3rd",
+        "winLeadSecondPer" : "12th",
+        "winOutshootOpp" : "8th",
+        "winOutshotByOpp" : "8th",
+        "faceOffsTaken" : "22nd",
+        "faceOffsWon" : "3rd",
+        "faceOffsLost" : "3rd",
+        "faceOffWinPercentage" : "1st",
+        "savePctRank" : "6th",
+        "shootingPctRank" : "23rd"
+      },
+      "team" : {
+        "id" : 6,
+        "name" : "Boston Bruins",
+        "link" : "/api/v1/teams/6"
+      }
+    } ]
+  } ]
+}

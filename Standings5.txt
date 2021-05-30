@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 47,
+        "wins" : 30,
+        "losses" : 14,
+        "ot" : 3,
+        "pts" : 63,
+        "ptPctg" : "67.0",
+        "goalsPerGame" : 3.426,
+        "goalsAgainstPerGame" : 2.809,
+        "evGGARatio" : 1.2683,
+        "powerPlayPercentage" : "22.7",
+        "powerPlayGoals" : 30.0,
+        "powerPlayGoalsAgainst" : 32.0,
+        "powerPlayOpportunities" : 132.0,
+        "penaltyKillPercentage" : "77.3",
+        "shotsPerGame" : 29.9149,
+        "shotsAllowed" : 29.5957,
+        "winScoreFirst" : 0.75,
+        "winOppScoreFirst" : 0.522,
+        "winLeadFirstPer" : 0.818,
+        "winLeadSecondPer" : 0.909,
+        "winOutshootOpp" : 0.615,
+        "winOutshotByOpp" : 0.684,
+        "faceOffsTaken" : 2653.0,
+        "faceOffsWon" : 1312.0,
+        "faceOffsLost" : 1341.0,
+        "faceOffWinPercentage" : "49.5",
+        "shootingPctg" : 11.5,
+        "savePctg" : 0.905
+      },
+      "team" : {
+        "id" : 5,
+        "name" : "Pittsburgh Penguins",
+        "link" : "/api/v1/teams/5"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "7th",
+        "losses" : "11th",
+        "ot" : "23rd",
+        "pts" : "9th",
+        "ptPctg" : "10th",
+        "goalsPerGame" : "3rd",
+        "goalsAgainstPerGame" : "15th",
+        "evGGARatio" : "5th",
+        "powerPlayPercentage" : "9th",
+        "powerPlayGoals" : "12th",
+        "powerPlayGoalsAgainst" : "24th",
+        "powerPlayOpportunities" : "20th",
+        "penaltyKillOpportunities" : "21st",
+        "penaltyKillPercentage" : "24th",
+        "shotsPerGame" : "12th",
+        "shotsAllowed" : "14th",
+        "winScoreFirst" : "9th",
+        "winOppScoreFirst" : "3rd",
+        "winLeadFirstPer" : "8th",
+        "winLeadSecondPer" : "10th",
+        "winOutshootOpp" : "9th",
+        "winOutshotByOpp" : "9th",
+        "faceOffsTaken" : "8th",
+        "faceOffsWon" : "10th",
+        "faceOffsLost" : "23rd",
+        "faceOffWinPercentage" : "21st",
+        "savePctRank" : "17th",
+        "shootingPctRank" : "2nd"
+      },
+      "team" : {
+        "id" : 5,
+        "name" : "Pittsburgh Penguins",
+        "link" : "/api/v1/teams/5"
+      }
+    } ]
+  } ]
+}

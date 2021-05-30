@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 47,
+        "wins" : 22,
+        "losses" : 20,
+        "ot" : 5,
+        "pts" : 49,
+        "ptPctg" : "52.1",
+        "goalsPerGame" : 2.809,
+        "goalsAgainstPerGame" : 3.106,
+        "evGGARatio" : 0.8454,
+        "powerPlayPercentage" : "23.0",
+        "powerPlayGoals" : 34.0,
+        "powerPlayGoalsAgainst" : 31.0,
+        "powerPlayOpportunities" : 148.0,
+        "penaltyKillPercentage" : "76.2",
+        "shotsPerGame" : 29.383,
+        "shotsAllowed" : 33.1277,
+        "winScoreFirst" : 0.696,
+        "winOppScoreFirst" : 0.25,
+        "winLeadFirstPer" : 0.769,
+        "winLeadSecondPer" : 0.824,
+        "winOutshootOpp" : 0.529,
+        "winOutshotByOpp" : 0.429,
+        "faceOffsTaken" : 2618.0,
+        "faceOffsWon" : 1223.0,
+        "faceOffsLost" : 1395.0,
+        "faceOffWinPercentage" : "46.7",
+        "shootingPctg" : 9.6,
+        "savePctg" : 0.906
+      },
+      "team" : {
+        "id" : 16,
+        "name" : "Chicago Blackhawks",
+        "link" : "/api/v1/teams/16"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "16th",
+        "losses" : "20th",
+        "ot" : "16th",
+        "pts" : "18th",
+        "ptPctg" : "19th",
+        "goalsPerGame" : "16th",
+        "goalsAgainstPerGame" : "21st",
+        "evGGARatio" : "23rd",
+        "powerPlayPercentage" : "8th",
+        "powerPlayGoals" : "7th",
+        "powerPlayGoalsAgainst" : "22nd",
+        "powerPlayOpportunities" : "5th",
+        "penaltyKillOpportunities" : "11th",
+        "penaltyKillPercentage" : "26th",
+        "shotsPerGame" : "22nd",
+        "shotsAllowed" : "30th",
+        "winScoreFirst" : "16th",
+        "winOppScoreFirst" : "20th",
+        "winLeadFirstPer" : "14th",
+        "winLeadSecondPer" : "23rd",
+        "winOutshootOpp" : "16th",
+        "winOutshotByOpp" : "16th",
+        "faceOffsTaken" : "8th",
+        "faceOffsWon" : "23rd",
+        "faceOffsLost" : "29th",
+        "faceOffWinPercentage" : "28th",
+        "savePctRank" : "15th",
+        "shootingPctRank" : "14th"
+      },
+      "team" : {
+        "id" : 16,
+        "name" : "Chicago Blackhawks",
+        "link" : "/api/v1/teams/16"
+      }
+    } ]
+  } ]
+}

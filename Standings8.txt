@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 44,
+        "wins" : 20,
+        "losses" : 15,
+        "ot" : 9,
+        "pts" : 49,
+        "ptPctg" : "55.7",
+        "goalsPerGame" : 2.932,
+        "goalsAgainstPerGame" : 2.795,
+        "evGGARatio" : 1.2571,
+        "powerPlayPercentage" : "19.0",
+        "powerPlayGoals" : 23.0,
+        "powerPlayGoalsAgainst" : 32.0,
+        "powerPlayOpportunities" : 121.0,
+        "penaltyKillPercentage" : "77.8",
+        "shotsPerGame" : 32.0,
+        "shotsAllowed" : 28.1136,
+        "winScoreFirst" : 0.692,
+        "winOppScoreFirst" : 0.111,
+        "winLeadFirstPer" : 0.737,
+        "winLeadSecondPer" : 0.895,
+        "winOutshootOpp" : 0.464,
+        "winOutshotByOpp" : 0.4,
+        "faceOffsTaken" : 2475.0,
+        "faceOffsWon" : 1198.0,
+        "faceOffsLost" : 1277.0,
+        "faceOffWinPercentage" : "48.4",
+        "shootingPctg" : 9.2,
+        "savePctg" : 0.901
+      },
+      "team" : {
+        "id" : 8,
+        "name" : "Montréal Canadiens",
+        "link" : "/api/v1/teams/8"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "18th",
+        "losses" : "13th",
+        "ot" : "2nd",
+        "pts" : "17th",
+        "ptPctg" : "15th",
+        "goalsPerGame" : "13th",
+        "goalsAgainstPerGame" : "14th",
+        "evGGARatio" : "6th",
+        "powerPlayPercentage" : "21st",
+        "powerPlayGoals" : "24th",
+        "powerPlayGoalsAgainst" : "25th",
+        "powerPlayOpportunities" : "28th",
+        "penaltyKillOpportunities" : "24th",
+        "penaltyKillPercentage" : "22nd",
+        "shotsPerGame" : "6th",
+        "shotsAllowed" : "6th",
+        "winScoreFirst" : "12th",
+        "winOppScoreFirst" : "31st",
+        "winLeadFirstPer" : "16th",
+        "winLeadSecondPer" : "13th",
+        "winOutshootOpp" : "17th",
+        "winOutshotByOpp" : "17th",
+        "faceOffsTaken" : "25th",
+        "faceOffsWon" : "29th",
+        "faceOffsLost" : "12th",
+        "faceOffWinPercentage" : "24th",
+        "savePctRank" : "19th",
+        "shootingPctRank" : "20th"
+      },
+      "team" : {
+        "id" : 8,
+        "name" : "Montréal Canadiens",
+        "link" : "/api/v1/teams/8"
+      }
+    } ]
+  } ]
+}

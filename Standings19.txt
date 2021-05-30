@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 43,
+        "wins" : 19,
+        "losses" : 18,
+        "ot" : 6,
+        "pts" : 44,
+        "ptPctg" : "51.2",
+        "goalsPerGame" : 2.837,
+        "goalsAgainstPerGame" : 3.093,
+        "evGGARatio" : 0.8636,
+        "powerPlayPercentage" : "20.2",
+        "powerPlayGoals" : 25.0,
+        "powerPlayGoalsAgainst" : 33.0,
+        "powerPlayOpportunities" : 124.0,
+        "penaltyKillPercentage" : "75.7",
+        "shotsPerGame" : 29.8605,
+        "shotsAllowed" : 29.8605,
+        "winScoreFirst" : 0.533,
+        "winOppScoreFirst" : 0.393,
+        "winLeadFirstPer" : 0.706,
+        "winLeadSecondPer" : 0.857,
+        "winOutshootOpp" : 0.429,
+        "winOutshotByOpp" : 0.45,
+        "faceOffsTaken" : 2424.0,
+        "faceOffsWon" : 1290.0,
+        "faceOffsLost" : 1134.0,
+        "faceOffWinPercentage" : "53.2",
+        "shootingPctg" : 9.5,
+        "savePctg" : 0.896
+      },
+      "team" : {
+        "id" : 19,
+        "name" : "St. Louis Blues",
+        "link" : "/api/v1/teams/19"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "21st",
+        "losses" : "18th",
+        "ot" : "10th",
+        "pts" : "21st",
+        "ptPctg" : "20th",
+        "goalsPerGame" : "16th",
+        "goalsAgainstPerGame" : "20th",
+        "evGGARatio" : "20th",
+        "powerPlayPercentage" : "16th",
+        "powerPlayGoals" : "21st",
+        "powerPlayGoalsAgainst" : "27th",
+        "powerPlayOpportunities" : "26th",
+        "penaltyKillOpportunities" : "13th",
+        "penaltyKillPercentage" : "28th",
+        "shotsPerGame" : "14th",
+        "shotsAllowed" : "15th",
+        "winScoreFirst" : "30th",
+        "winOppScoreFirst" : "5th",
+        "winLeadFirstPer" : "19th",
+        "winLeadSecondPer" : "16th",
+        "winOutshootOpp" : "21st",
+        "winOutshotByOpp" : "21st",
+        "faceOffsTaken" : "28th",
+        "faceOffsWon" : "13th",
+        "faceOffsLost" : "4th",
+        "faceOffWinPercentage" : "3rd",
+        "savePctRank" : "26th",
+        "shootingPctRank" : "15th"
+      },
+      "team" : {
+        "id" : 19,
+        "name" : "St. Louis Blues",
+        "link" : "/api/v1/teams/19"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 45,
+        "wins" : 29,
+        "losses" : 13,
+        "ot" : 3,
+        "pts" : 61,
+        "ptPctg" : "67.8",
+        "goalsPerGame" : 3.111,
+        "goalsAgainstPerGame" : 2.6,
+        "evGGARatio" : 1.2278,
+        "powerPlayPercentage" : "17.9",
+        "powerPlayGoals" : 25.0,
+        "powerPlayGoalsAgainst" : 23.0,
+        "powerPlayOpportunities" : 140.0,
+        "penaltyKillPercentage" : "83.7",
+        "shotsPerGame" : 28.1333,
+        "shotsAllowed" : 30.7111,
+        "winScoreFirst" : 0.8,
+        "winOppScoreFirst" : 0.45,
+        "winLeadFirstPer" : 0.789,
+        "winLeadSecondPer" : 0.9,
+        "winOutshootOpp" : 0.75,
+        "winOutshotByOpp" : 0.542,
+        "faceOffsTaken" : 2662.0,
+        "faceOffsWon" : 1233.0,
+        "faceOffsLost" : 1429.0,
+        "faceOffWinPercentage" : "46.3",
+        "shootingPctg" : 11.1,
+        "savePctg" : 0.915
+      },
+      "team" : {
+        "id" : 30,
+        "name" : "Minnesota Wild",
+        "link" : "/api/v1/teams/30"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "10th",
+        "losses" : "9th",
+        "ot" : "24th",
+        "pts" : "10th",
+        "ptPctg" : "6th",
+        "goalsPerGame" : "12th",
+        "goalsAgainstPerGame" : "8th",
+        "evGGARatio" : "10th",
+        "powerPlayPercentage" : "24th",
+        "powerPlayGoals" : "19th",
+        "powerPlayGoalsAgainst" : "6th",
+        "powerPlayOpportunities" : "13th",
+        "penaltyKillOpportunities" : "22nd",
+        "penaltyKillPercentage" : "7th",
+        "shotsPerGame" : "27th",
+        "shotsAllowed" : "19th",
+        "winScoreFirst" : "7th",
+        "winOppScoreFirst" : "11th",
+        "winLeadFirstPer" : "12th",
+        "winLeadSecondPer" : "11th",
+        "winOutshootOpp" : "2nd",
+        "winOutshotByOpp" : "2nd",
+        "faceOffsTaken" : "7th",
+        "faceOffsWon" : "22nd",
+        "faceOffsLost" : "30th",
+        "faceOffWinPercentage" : "29th",
+        "savePctRank" : "4th",
+        "shootingPctRank" : "3rd"
+      },
+      "team" : {
+        "id" : 30,
+        "name" : "Minnesota Wild",
+        "link" : "/api/v1/teams/30"
+      }
+    } ]
+  } ]
+}

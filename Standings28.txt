@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 18,
+        "losses" : 23,
+        "ot" : 5,
+        "pts" : 41,
+        "ptPctg" : "44.6",
+        "goalsPerGame" : 2.543,
+        "goalsAgainstPerGame" : 3.348,
+        "evGGARatio" : 0.7905,
+        "powerPlayPercentage" : "15.5",
+        "powerPlayGoals" : 20.0,
+        "powerPlayGoalsAgainst" : 31.0,
+        "powerPlayOpportunities" : 129.0,
+        "penaltyKillPercentage" : "79.7",
+        "shotsPerGame" : 30.1304,
+        "shotsAllowed" : 31.6739,
+        "winScoreFirst" : 0.478,
+        "winOppScoreFirst" : 0.304,
+        "winLeadFirstPer" : 0.692,
+        "winLeadSecondPer" : 0.692,
+        "winOutshootOpp" : 0.444,
+        "winOutshotByOpp" : 0.4,
+        "faceOffsTaken" : 2592.0,
+        "faceOffsWon" : 1263.0,
+        "faceOffsLost" : 1329.0,
+        "faceOffWinPercentage" : "48.7",
+        "shootingPctg" : 8.4,
+        "savePctg" : 0.894
+      },
+      "team" : {
+        "id" : 28,
+        "name" : "San Jose Sharks",
+        "link" : "/api/v1/teams/28"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "23rd",
+        "losses" : "25th",
+        "ot" : "18th",
+        "pts" : "22nd",
+        "ptPctg" : "25th",
+        "goalsPerGame" : "27th",
+        "goalsAgainstPerGame" : "28th",
+        "evGGARatio" : "25th",
+        "powerPlayPercentage" : "27th",
+        "powerPlayGoals" : "27th",
+        "powerPlayGoalsAgainst" : "23rd",
+        "powerPlayOpportunities" : "22nd",
+        "penaltyKillOpportunities" : "31st",
+        "penaltyKillPercentage" : "13th",
+        "shotsPerGame" : "10th",
+        "shotsAllowed" : "26th",
+        "winScoreFirst" : "25th",
+        "winOppScoreFirst" : "17th",
+        "winLeadFirstPer" : "21st",
+        "winLeadSecondPer" : "29th",
+        "winOutshootOpp" : "19th",
+        "winOutshotByOpp" : "19th",
+        "faceOffsTaken" : "13th",
+        "faceOffsWon" : "16th",
+        "faceOffsLost" : "22nd",
+        "faceOffWinPercentage" : "23rd",
+        "savePctRank" : "28th",
+        "shootingPctRank" : "27th"
+      },
+      "team" : {
+        "id" : 28,
+        "name" : "San Jose Sharks",
+        "link" : "/api/v1/teams/28"
+      }
+    } ]
+  } ]
+}

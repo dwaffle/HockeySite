@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 45,
+        "wins" : 19,
+        "losses" : 23,
+        "ot" : 3,
+        "pts" : 41,
+        "ptPctg" : "45.6",
+        "goalsPerGame" : 2.6,
+        "goalsAgainstPerGame" : 2.933,
+        "evGGARatio" : 0.9213,
+        "powerPlayPercentage" : "19.4",
+        "powerPlayGoals" : 28.0,
+        "powerPlayGoalsAgainst" : 27.0,
+        "powerPlayOpportunities" : 144.0,
+        "penaltyKillPercentage" : "80.7",
+        "shotsPerGame" : 29.8222,
+        "shotsAllowed" : 28.8222,
+        "winScoreFirst" : 0.682,
+        "winOppScoreFirst" : 0.174,
+        "winLeadFirstPer" : 0.667,
+        "winLeadSecondPer" : 0.941,
+        "winOutshootOpp" : 0.4,
+        "winOutshotByOpp" : 0.421,
+        "faceOffsTaken" : 2451.0,
+        "faceOffsWon" : 1234.0,
+        "faceOffsLost" : 1217.0,
+        "faceOffWinPercentage" : "50.4",
+        "shootingPctg" : 8.7,
+        "savePctg" : 0.898
+      },
+      "team" : {
+        "id" : 20,
+        "name" : "Calgary Flames",
+        "link" : "/api/v1/teams/20"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "22nd",
+        "losses" : "24th",
+        "ot" : "26th",
+        "pts" : "23rd",
+        "ptPctg" : "24th",
+        "goalsPerGame" : "24th",
+        "goalsAgainstPerGame" : "17th",
+        "evGGARatio" : "18th",
+        "powerPlayPercentage" : "19th",
+        "powerPlayGoals" : "16th",
+        "powerPlayGoalsAgainst" : "16th",
+        "powerPlayOpportunities" : "7th",
+        "penaltyKillOpportunities" : "21st",
+        "penaltyKillPercentage" : "11th",
+        "shotsPerGame" : "15th",
+        "shotsAllowed" : "10th",
+        "winScoreFirst" : "18th",
+        "winOppScoreFirst" : "25th",
+        "winLeadFirstPer" : "26th",
+        "winLeadSecondPer" : "4th",
+        "winOutshootOpp" : "22nd",
+        "winOutshotByOpp" : "22nd",
+        "faceOffsTaken" : "25th",
+        "faceOffsWon" : "20th",
+        "faceOffsLost" : "11th",
+        "faceOffWinPercentage" : "14th",
+        "savePctRank" : "22nd",
+        "shootingPctRank" : "24th"
+      },
+      "team" : {
+        "id" : 20,
+        "name" : "Calgary Flames",
+        "link" : "/api/v1/teams/20"
+      }
+    } ]
+  } ]
+}

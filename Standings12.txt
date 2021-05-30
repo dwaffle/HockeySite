@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 31,
+        "losses" : 10,
+        "ot" : 5,
+        "pts" : 67,
+        "ptPctg" : "72.8",
+        "goalsPerGame" : 3.174,
+        "goalsAgainstPerGame" : 2.348,
+        "evGGARatio" : 1.303,
+        "powerPlayPercentage" : "27.5",
+        "powerPlayGoals" : 38.0,
+        "powerPlayGoalsAgainst" : 24.0,
+        "powerPlayOpportunities" : 138.0,
+        "penaltyKillPercentage" : "84.1",
+        "shotsPerGame" : 32.4565,
+        "shotsAllowed" : 28.3913,
+        "winScoreFirst" : 0.759,
+        "winOppScoreFirst" : 0.529,
+        "winLeadFirstPer" : 0.833,
+        "winLeadSecondPer" : 0.917,
+        "winOutshootOpp" : 0.655,
+        "winOutshotByOpp" : 0.688,
+        "faceOffsTaken" : 2865.0,
+        "faceOffsWon" : 1542.0,
+        "faceOffsLost" : 1323.0,
+        "faceOffWinPercentage" : "53.8",
+        "shootingPctg" : 9.8,
+        "savePctg" : 0.917
+      },
+      "team" : {
+        "id" : 12,
+        "name" : "Carolina Hurricanes",
+        "link" : "/api/v1/teams/12"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "2nd",
+        "losses" : "2nd",
+        "ot" : "13th",
+        "pts" : "2nd",
+        "ptPctg" : "3rd",
+        "goalsPerGame" : "11th",
+        "goalsAgainstPerGame" : "4th",
+        "evGGARatio" : "4th",
+        "powerPlayPercentage" : "1st",
+        "powerPlayGoals" : "1st",
+        "powerPlayGoalsAgainst" : "8th",
+        "powerPlayOpportunities" : "15th",
+        "penaltyKillOpportunities" : "27th",
+        "penaltyKillPercentage" : "4th",
+        "shotsPerGame" : "5th",
+        "shotsAllowed" : "7th",
+        "winScoreFirst" : "3rd",
+        "winOppScoreFirst" : "9th",
+        "winLeadFirstPer" : "6th",
+        "winLeadSecondPer" : "8th",
+        "winOutshootOpp" : "5th",
+        "winOutshotByOpp" : "5th",
+        "faceOffsTaken" : "2nd",
+        "faceOffsWon" : "1st",
+        "faceOffsLost" : "19th",
+        "faceOffWinPercentage" : "2nd",
+        "savePctRank" : "3rd",
+        "shootingPctRank" : "11th"
+      },
+      "team" : {
+        "id" : 12,
+        "name" : "Carolina Hurricanes",
+        "link" : "/api/v1/teams/12"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 44,
+        "wins" : 14,
+        "losses" : 24,
+        "ot" : 6,
+        "pts" : 34,
+        "ptPctg" : "38.6",
+        "goalsPerGame" : 2.477,
+        "goalsAgainstPerGame" : 3.318,
+        "evGGARatio" : 0.8571,
+        "powerPlayPercentage" : "12.9",
+        "powerPlayGoals" : 16.0,
+        "powerPlayGoalsAgainst" : 37.0,
+        "powerPlayOpportunities" : 124.0,
+        "penaltyKillPercentage" : "70.2",
+        "shotsPerGame" : 29.5682,
+        "shotsAllowed" : 30.7727,
+        "winScoreFirst" : 0.5,
+        "winOppScoreFirst" : 0.136,
+        "winLeadFirstPer" : 0.692,
+        "winLeadSecondPer" : 0.7,
+        "winOutshootOpp" : 0.222,
+        "winOutshotByOpp" : 0.4,
+        "faceOffsTaken" : 2510.0,
+        "faceOffsWon" : 1189.0,
+        "faceOffsLost" : 1321.0,
+        "faceOffWinPercentage" : "47.4",
+        "shootingPctg" : 8.4,
+        "savePctg" : 0.892
+      },
+      "team" : {
+        "id" : 1,
+        "name" : "New Jersey Devils",
+        "link" : "/api/v1/teams/1"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "30th",
+        "losses" : "28th",
+        "ot" : "12th",
+        "pts" : "29th",
+        "ptPctg" : "28th",
+        "goalsPerGame" : "27th",
+        "goalsAgainstPerGame" : "27th",
+        "evGGARatio" : "22nd",
+        "powerPlayPercentage" : "29th",
+        "powerPlayGoals" : "28th",
+        "powerPlayGoalsAgainst" : "31st",
+        "powerPlayOpportunities" : "25th",
+        "penaltyKillOpportunities" : "11th",
+        "penaltyKillPercentage" : "31st",
+        "shotsPerGame" : "20th",
+        "shotsAllowed" : "18th",
+        "winScoreFirst" : "28th",
+        "winOppScoreFirst" : "30th",
+        "winLeadFirstPer" : "23rd",
+        "winLeadSecondPer" : "29th",
+        "winOutshootOpp" : "31st",
+        "winOutshotByOpp" : "31st",
+        "faceOffsTaken" : "15th",
+        "faceOffsWon" : "21st",
+        "faceOffsLost" : "25th",
+        "faceOffWinPercentage" : "27th",
+        "savePctRank" : "29th",
+        "shootingPctRank" : "29th"
+      },
+      "team" : {
+        "id" : 1,
+        "name" : "New Jersey Devils",
+        "link" : "/api/v1/teams/1"
+      }
+    } ]
+  } ]
+}

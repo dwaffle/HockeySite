@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 21,
+        "losses" : 18,
+        "ot" : 7,
+        "pts" : 49,
+        "ptPctg" : "53.3",
+        "goalsPerGame" : 2.804,
+        "goalsAgainstPerGame" : 3.478,
+        "evGGARatio" : 0.7679,
+        "powerPlayPercentage" : "19.9",
+        "powerPlayGoals" : 29.0,
+        "powerPlayGoalsAgainst" : 36.0,
+        "powerPlayOpportunities" : 146.0,
+        "penaltyKillPercentage" : "74.3",
+        "shotsPerGame" : 29.913,
+        "shotsAllowed" : 29.3478,
+        "winScoreFirst" : 0.6,
+        "winOppScoreFirst" : 0.346,
+        "winLeadFirstPer" : 0.75,
+        "winLeadSecondPer" : 0.8,
+        "winOutshootOpp" : 0.462,
+        "winOutshotByOpp" : 0.45,
+        "faceOffsTaken" : 2640.0,
+        "faceOffsWon" : 1402.0,
+        "faceOffsLost" : 1238.0,
+        "faceOffWinPercentage" : "53.1",
+        "shootingPctg" : 9.4,
+        "savePctg" : 0.881
+      },
+      "team" : {
+        "id" : 4,
+        "name" : "Philadelphia Flyers",
+        "link" : "/api/v1/teams/4"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "17th",
+        "losses" : "17th",
+        "ot" : "4th",
+        "pts" : "18th",
+        "ptPctg" : "18th",
+        "goalsPerGame" : "18th",
+        "goalsAgainstPerGame" : "30th",
+        "evGGARatio" : "28th",
+        "powerPlayPercentage" : "18th",
+        "powerPlayGoals" : "16th",
+        "powerPlayGoalsAgainst" : "29th",
+        "powerPlayOpportunities" : "7th",
+        "penaltyKillOpportunities" : "14th",
+        "penaltyKillPercentage" : "30th",
+        "shotsPerGame" : "13th",
+        "shotsAllowed" : "13th",
+        "winScoreFirst" : "22nd",
+        "winOppScoreFirst" : "13th",
+        "winLeadFirstPer" : "15th",
+        "winLeadSecondPer" : "24th",
+        "winOutshootOpp" : "18th",
+        "winOutshotByOpp" : "18th",
+        "faceOffsTaken" : "9th",
+        "faceOffsWon" : "5th",
+        "faceOffsLost" : "10th",
+        "faceOffWinPercentage" : "4th",
+        "savePctRank" : "31st",
+        "shootingPctRank" : "18th"
+      },
+      "team" : {
+        "id" : 4,
+        "name" : "Philadelphia Flyers",
+        "link" : "/api/v1/teams/4"
+      }
+    } ]
+  } ]
+}

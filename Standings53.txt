@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 47,
+        "wins" : 20,
+        "losses" : 22,
+        "ot" : 5,
+        "pts" : 45,
+        "ptPctg" : "47.9",
+        "goalsPerGame" : 2.574,
+        "goalsAgainstPerGame" : 3.149,
+        "evGGARatio" : 0.8632,
+        "powerPlayPercentage" : "20.3",
+        "powerPlayGoals" : 31.0,
+        "powerPlayGoalsAgainst" : 30.0,
+        "powerPlayOpportunities" : 153.0,
+        "penaltyKillPercentage" : "78.9",
+        "shotsPerGame" : 26.8085,
+        "shotsAllowed" : 30.4681,
+        "winScoreFirst" : 0.611,
+        "winOppScoreFirst" : 0.31,
+        "winLeadFirstPer" : 0.545,
+        "winLeadSecondPer" : 0.833,
+        "winOutshootOpp" : 0.333,
+        "winOutshotByOpp" : 0.467,
+        "faceOffsTaken" : 2592.0,
+        "faceOffsWon" : 1250.0,
+        "faceOffsLost" : 1342.0,
+        "faceOffWinPercentage" : "48.2",
+        "shootingPctg" : 9.6,
+        "savePctg" : 0.897
+      },
+      "team" : {
+        "id" : 53,
+        "name" : "Arizona Coyotes",
+        "link" : "/api/v1/teams/53"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "19th",
+        "losses" : "23rd",
+        "ot" : "17th",
+        "pts" : "20th",
+        "ptPctg" : "22nd",
+        "goalsPerGame" : "25th",
+        "goalsAgainstPerGame" : "23rd",
+        "evGGARatio" : "22nd",
+        "powerPlayPercentage" : "16th",
+        "powerPlayGoals" : "11th",
+        "powerPlayGoalsAgainst" : "21st",
+        "powerPlayOpportunities" : "3rd",
+        "penaltyKillOpportunities" : "25th",
+        "penaltyKillPercentage" : "20th",
+        "shotsPerGame" : "31st",
+        "shotsAllowed" : "17th",
+        "winScoreFirst" : "24th",
+        "winOppScoreFirst" : "12th",
+        "winLeadFirstPer" : "28th",
+        "winLeadSecondPer" : "21st",
+        "winOutshootOpp" : "25th",
+        "winOutshotByOpp" : "25th",
+        "faceOffsTaken" : "12th",
+        "faceOffsWon" : "18th",
+        "faceOffsLost" : "25th",
+        "faceOffWinPercentage" : "25th",
+        "savePctRank" : "25th",
+        "shootingPctRank" : "15th"
+      },
+      "team" : {
+        "id" : 53,
+        "name" : "Arizona Coyotes",
+        "link" : "/api/v1/teams/53"
+      }
+    } ]
+  } ]
+}

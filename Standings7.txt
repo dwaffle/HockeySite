@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 47,
+        "wins" : 12,
+        "losses" : 28,
+        "ot" : 7,
+        "pts" : 31,
+        "ptPctg" : "33.0",
+        "goalsPerGame" : 2.319,
+        "goalsAgainstPerGame" : 3.362,
+        "evGGARatio" : 0.6514,
+        "powerPlayPercentage" : "19.5",
+        "powerPlayGoals" : 24.0,
+        "powerPlayGoalsAgainst" : 25.0,
+        "powerPlayOpportunities" : 123.0,
+        "penaltyKillPercentage" : "79.3",
+        "shotsPerGame" : 27.9574,
+        "shotsAllowed" : 33.0851,
+        "winScoreFirst" : 0.412,
+        "winOppScoreFirst" : 0.167,
+        "winLeadFirstPer" : 0.364,
+        "winLeadSecondPer" : 0.636,
+        "winOutshootOpp" : 0.364,
+        "winOutshotByOpp" : 0.229,
+        "faceOffsTaken" : 2555.0,
+        "faceOffsWon" : 1280.0,
+        "faceOffsLost" : 1275.0,
+        "faceOffWinPercentage" : "50.1",
+        "shootingPctg" : 8.3,
+        "savePctg" : 0.898
+      },
+      "team" : {
+        "id" : 7,
+        "name" : "Buffalo Sabres",
+        "link" : "/api/v1/teams/7"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "31st",
+        "losses" : "31st",
+        "ot" : "7th",
+        "pts" : "31st",
+        "ptPctg" : "31st",
+        "goalsPerGame" : "29th",
+        "goalsAgainstPerGame" : "28th",
+        "evGGARatio" : "31st",
+        "powerPlayPercentage" : "19th",
+        "powerPlayGoals" : "23rd",
+        "powerPlayGoalsAgainst" : "12th",
+        "powerPlayOpportunities" : "27th",
+        "penaltyKillOpportunities" : "5th",
+        "penaltyKillPercentage" : "18th",
+        "shotsPerGame" : "28th",
+        "shotsAllowed" : "29th",
+        "winScoreFirst" : "31st",
+        "winOppScoreFirst" : "22nd",
+        "winLeadFirstPer" : "31st",
+        "winLeadSecondPer" : "31st",
+        "winOutshootOpp" : "24th",
+        "winOutshotByOpp" : "24th",
+        "faceOffsTaken" : "19th",
+        "faceOffsWon" : "15th",
+        "faceOffsLost" : "12th",
+        "faceOffWinPercentage" : "18th",
+        "savePctRank" : "22nd",
+        "shootingPctRank" : "29th"
+      },
+      "team" : {
+        "id" : 7,
+        "name" : "Buffalo Sabres",
+        "link" : "/api/v1/teams/7"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 40,
+        "wins" : 18,
+        "losses" : 19,
+        "ot" : 3,
+        "pts" : 39,
+        "ptPctg" : "48.8",
+        "goalsPerGame" : 2.65,
+        "goalsAgainstPerGame" : 3.175,
+        "evGGARatio" : 0.8902,
+        "powerPlayPercentage" : "19.5",
+        "powerPlayGoals" : 22.0,
+        "powerPlayGoalsAgainst" : 31.0,
+        "powerPlayOpportunities" : 113.0,
+        "penaltyKillPercentage" : "77.2",
+        "shotsPerGame" : 29.975,
+        "shotsAllowed" : 33.825,
+        "winScoreFirst" : 0.778,
+        "winOppScoreFirst" : 0.182,
+        "winLeadFirstPer" : 0.692,
+        "winLeadSecondPer" : 0.846,
+        "winOutshootOpp" : 0.273,
+        "winOutshotByOpp" : 0.517,
+        "faceOffsTaken" : 2298.0,
+        "faceOffsWon" : 1211.0,
+        "faceOffsLost" : 1087.0,
+        "faceOffWinPercentage" : "52.7",
+        "shootingPctg" : 8.8,
+        "savePctg" : 0.906
+      },
+      "team" : {
+        "id" : 23,
+        "name" : "Vancouver Canucks",
+        "link" : "/api/v1/teams/23"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "24th",
+        "losses" : "19th",
+        "ot" : "27th",
+        "pts" : "27th",
+        "ptPctg" : "21st",
+        "goalsPerGame" : "22nd",
+        "goalsAgainstPerGame" : "25th",
+        "evGGARatio" : "19th",
+        "powerPlayPercentage" : "20th",
+        "powerPlayGoals" : "26th",
+        "powerPlayGoalsAgainst" : "23rd",
+        "powerPlayOpportunities" : "29th",
+        "penaltyKillOpportunities" : "12th",
+        "penaltyKillPercentage" : "24th",
+        "shotsPerGame" : "11th",
+        "shotsAllowed" : "31st",
+        "winScoreFirst" : "20th",
+        "winOppScoreFirst" : "27th",
+        "winLeadFirstPer" : "23rd",
+        "winLeadSecondPer" : "19th",
+        "winOutshootOpp" : "28th",
+        "winOutshotByOpp" : "28th",
+        "faceOffsTaken" : "30th",
+        "faceOffsWon" : "28th",
+        "faceOffsLost" : "1st",
+        "faceOffWinPercentage" : "5th",
+        "savePctRank" : "14th",
+        "shootingPctRank" : "25th"
+      },
+      "team" : {
+        "id" : 23,
+        "name" : "Vancouver Canucks",
+        "link" : "/api/v1/teams/23"
+      }
+    } ]
+  } ]
+}

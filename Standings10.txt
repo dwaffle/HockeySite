@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 45,
+        "wins" : 28,
+        "losses" : 12,
+        "ot" : 5,
+        "pts" : 61,
+        "ptPctg" : "67.8",
+        "goalsPerGame" : 3.244,
+        "goalsAgainstPerGame" : 2.667,
+        "evGGARatio" : 1.3117,
+        "powerPlayPercentage" : "21.9",
+        "powerPlayGoals" : 28.0,
+        "powerPlayGoalsAgainst" : 28.0,
+        "powerPlayOpportunities" : 128.0,
+        "penaltyKillPercentage" : "76.1",
+        "shotsPerGame" : 31.0889,
+        "shotsAllowed" : 28.2444,
+        "winScoreFirst" : 0.778,
+        "winOppScoreFirst" : 0.389,
+        "winLeadFirstPer" : 0.722,
+        "winLeadSecondPer" : 0.773,
+        "winOutshootOpp" : 0.56,
+        "winOutshotByOpp" : 0.722,
+        "faceOffsTaken" : 2400.0,
+        "faceOffsWon" : 1240.0,
+        "faceOffsLost" : 1160.0,
+        "faceOffWinPercentage" : "51.7",
+        "shootingPctg" : 10.4,
+        "savePctg" : 0.906
+      },
+      "team" : {
+        "id" : 10,
+        "name" : "Toronto Maple Leafs",
+        "link" : "/api/v1/teams/10"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "9th",
+        "losses" : "5th",
+        "ot" : "15th",
+        "pts" : "8th",
+        "ptPctg" : "5th",
+        "goalsPerGame" : "7th",
+        "goalsAgainstPerGame" : "12th",
+        "evGGARatio" : "3rd",
+        "powerPlayPercentage" : "10th",
+        "powerPlayGoals" : "15th",
+        "powerPlayGoalsAgainst" : "18th",
+        "powerPlayOpportunities" : "21st",
+        "penaltyKillOpportunities" : "4th",
+        "penaltyKillPercentage" : "26th",
+        "shotsPerGame" : "7th",
+        "shotsAllowed" : "7th",
+        "winScoreFirst" : "4th",
+        "winOppScoreFirst" : "16th",
+        "winLeadFirstPer" : "17th",
+        "winLeadSecondPer" : "26th",
+        "winOutshootOpp" : "14th",
+        "winOutshotByOpp" : "14th",
+        "faceOffsTaken" : "28th",
+        "faceOffsWon" : "17th",
+        "faceOffsLost" : "5th",
+        "faceOffWinPercentage" : "7th",
+        "savePctRank" : "16th",
+        "shootingPctRank" : "8th"
+      },
+      "team" : {
+        "id" : 10,
+        "name" : "Toronto Maple Leafs",
+        "link" : "/api/v1/teams/10"
+      }
+    } ]
+  } ]
+}

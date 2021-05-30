@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 16,
+        "losses" : 26,
+        "ot" : 4,
+        "pts" : 36,
+        "ptPctg" : "39.1",
+        "goalsPerGame" : 2.696,
+        "goalsAgainstPerGame" : 3.587,
+        "evGGARatio" : 0.713,
+        "powerPlayPercentage" : "16.7",
+        "powerPlayGoals" : 24.0,
+        "powerPlayGoalsAgainst" : 32.0,
+        "powerPlayOpportunities" : 144.0,
+        "penaltyKillPercentage" : "77.5",
+        "shotsPerGame" : 30.5217,
+        "shotsAllowed" : 32.3696,
+        "winScoreFirst" : 0.563,
+        "winOppScoreFirst" : 0.233,
+        "winLeadFirstPer" : 0.8,
+        "winLeadSecondPer" : 0.833,
+        "winOutshootOpp" : 0.316,
+        "winOutshotByOpp" : 0.417,
+        "faceOffsTaken" : 2566.0,
+        "faceOffsWon" : 1233.0,
+        "faceOffsLost" : 1333.0,
+        "faceOffWinPercentage" : "48.0",
+        "shootingPctg" : 8.8,
+        "savePctg" : 0.889
+      },
+      "team" : {
+        "id" : 9,
+        "name" : "Ottawa Senators",
+        "link" : "/api/v1/teams/9"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "27th",
+        "losses" : "28th",
+        "ot" : "22nd",
+        "pts" : "28th",
+        "ptPctg" : "28th",
+        "goalsPerGame" : "22nd",
+        "goalsAgainstPerGame" : "31st",
+        "evGGARatio" : "29th",
+        "powerPlayPercentage" : "26th",
+        "powerPlayGoals" : "22nd",
+        "powerPlayGoalsAgainst" : "26th",
+        "powerPlayOpportunities" : "10th",
+        "penaltyKillOpportunities" : "24th",
+        "penaltyKillPercentage" : "23rd",
+        "shotsPerGame" : "8th",
+        "shotsAllowed" : "28th",
+        "winScoreFirst" : "29th",
+        "winOppScoreFirst" : "18th",
+        "winLeadFirstPer" : "11th",
+        "winLeadSecondPer" : "22nd",
+        "winOutshootOpp" : "27th",
+        "winOutshotByOpp" : "27th",
+        "faceOffsTaken" : "18th",
+        "faceOffsWon" : "23rd",
+        "faceOffsLost" : "22nd",
+        "faceOffWinPercentage" : "26th",
+        "savePctRank" : "29th",
+        "shootingPctRank" : "22nd"
+      },
+      "team" : {
+        "id" : 9,
+        "name" : "Ottawa Senators",
+        "link" : "/api/v1/teams/9"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,109 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "teams" : [ {
+    "id" : 17,
+    "name" : "Detroit Red Wings",
+    "link" : "/api/v1/teams/17",
+    "venue" : {
+      "id" : 5145,
+      "name" : "Little Caesars Arena",
+      "link" : "/api/v1/venues/5145",
+      "city" : "Detroit",
+      "timeZone" : {
+        "id" : "America/Detroit",
+        "offset" : -4,
+        "tz" : "EDT"
+      }
+    },
+    "abbreviation" : "DET",
+    "teamName" : "Red Wings",
+    "locationName" : "Detroit",
+    "firstYearOfPlay" : "1926",
+    "division" : {
+      "id" : 26,
+      "name" : "Discover Central",
+      "link" : "/api/v1/divisions/26"
+    },
+    "conference" : {
+      "id" : 6,
+      "name" : "Eastern",
+      "link" : "/api/v1/conferences/6"
+    },
+    "franchise" : {
+      "franchiseId" : 12,
+      "teamName" : "Red Wings",
+      "link" : "/api/v1/franchises/12"
+    },
+    "nextGameSchedule" : {
+      "totalItems" : 1,
+      "totalEvents" : 0,
+      "totalGames" : 1,
+      "totalMatches" : 0,
+      "dates" : [ {
+        "date" : "2021-04-24",
+        "totalItems" : 1,
+        "totalEvents" : 0,
+        "totalGames" : 1,
+        "totalMatches" : 0,
+        "games" : [ {
+          "gamePk" : 2020020747,
+          "link" : "/api/v1/game/2020020747/feed/live",
+          "gameType" : "R",
+          "season" : "20202021",
+          "gameDate" : "2021-04-24T23:00:00Z",
+          "status" : {
+            "abstractGameState" : "Preview",
+            "codedGameState" : "1",
+            "detailedState" : "Scheduled",
+            "statusCode" : "1",
+            "startTimeTBD" : false
+          },
+          "teams" : {
+            "away" : {
+              "leagueRecord" : {
+                "wins" : 19,
+                "losses" : 15,
+                "ot" : 12,
+                "type" : "league"
+              },
+              "score" : 0,
+              "team" : {
+                "id" : 25,
+                "name" : "Dallas Stars",
+                "link" : "/api/v1/teams/25"
+              }
+            },
+            "home" : {
+              "leagueRecord" : {
+                "wins" : 17,
+                "losses" : 25,
+                "ot" : 7,
+                "type" : "league"
+              },
+              "score" : 0,
+              "team" : {
+                "id" : 17,
+                "name" : "Detroit Red Wings",
+                "link" : "/api/v1/teams/17"
+              }
+            }
+          },
+          "venue" : {
+            "id" : 5145,
+            "name" : "Little Caesars Arena",
+            "link" : "/api/v1/venues/5145"
+          },
+          "content" : {
+            "link" : "/api/v1/game/2020020747/content"
+          }
+        } ],
+        "events" : [ ],
+        "matches" : [ ]
+      } ]
+    },
+    "shortName" : "Detroit",
+    "officialSiteUrl" : "http://www.detroitredwings.com/",
+    "franchiseId" : 12,
+    "active" : true
+  } ]
+}

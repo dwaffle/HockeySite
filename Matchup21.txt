@@ -1,0 +1,109 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "teams" : [ {
+    "id" : 21,
+    "name" : "Colorado Avalanche",
+    "link" : "/api/v1/teams/21",
+    "venue" : {
+      "id" : 5064,
+      "name" : "Ball Arena",
+      "link" : "/api/v1/venues/5064",
+      "city" : "Denver",
+      "timeZone" : {
+        "id" : "America/Denver",
+        "offset" : -6,
+        "tz" : "MDT"
+      }
+    },
+    "abbreviation" : "COL",
+    "teamName" : "Avalanche",
+    "locationName" : "Colorado",
+    "firstYearOfPlay" : "1979",
+    "division" : {
+      "id" : 27,
+      "name" : "Honda West",
+      "link" : "/api/v1/divisions/27"
+    },
+    "conference" : {
+      "id" : 5,
+      "name" : "Western",
+      "link" : "/api/v1/conferences/5"
+    },
+    "franchise" : {
+      "franchiseId" : 27,
+      "teamName" : "Avalanche",
+      "link" : "/api/v1/franchises/27"
+    },
+    "nextGameSchedule" : {
+      "totalItems" : 1,
+      "totalEvents" : 0,
+      "totalGames" : 1,
+      "totalMatches" : 0,
+      "dates" : [ {
+        "date" : "2021-04-24",
+        "totalItems" : 1,
+        "totalEvents" : 0,
+        "totalGames" : 1,
+        "totalMatches" : 0,
+        "games" : [ {
+          "gamePk" : 2020020748,
+          "link" : "/api/v1/game/2020020748/feed/live",
+          "gameType" : "R",
+          "season" : "20202021",
+          "gameDate" : "2021-04-24T19:00:00Z",
+          "status" : {
+            "abstractGameState" : "Preview",
+            "codedGameState" : "1",
+            "detailedState" : "Scheduled",
+            "statusCode" : "1",
+            "startTimeTBD" : false
+          },
+          "teams" : {
+            "away" : {
+              "leagueRecord" : {
+                "wins" : 30,
+                "losses" : 9,
+                "ot" : 4,
+                "type" : "league"
+              },
+              "score" : 0,
+              "team" : {
+                "id" : 21,
+                "name" : "Colorado Avalanche",
+                "link" : "/api/v1/teams/21"
+              }
+            },
+            "home" : {
+              "leagueRecord" : {
+                "wins" : 19,
+                "losses" : 18,
+                "ot" : 6,
+                "type" : "league"
+              },
+              "score" : 0,
+              "team" : {
+                "id" : 19,
+                "name" : "St. Louis Blues",
+                "link" : "/api/v1/teams/19"
+              }
+            }
+          },
+          "venue" : {
+            "id" : 5076,
+            "name" : "Enterprise Center",
+            "link" : "/api/v1/venues/5076"
+          },
+          "content" : {
+            "link" : "/api/v1/game/2020020748/content"
+          }
+        } ],
+        "events" : [ ],
+        "matches" : [ ]
+      } ]
+    },
+    "shortName" : "Colorado",
+    "officialSiteUrl" : "http://www.coloradoavalanche.com/",
+    "franchiseId" : 27,
+    "active" : true
+  } ]
+}

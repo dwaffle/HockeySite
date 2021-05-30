@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 49,
+        "wins" : 17,
+        "losses" : 25,
+        "ot" : 7,
+        "pts" : 41,
+        "ptPctg" : "41.8",
+        "goalsPerGame" : 2.306,
+        "goalsAgainstPerGame" : 3.143,
+        "evGGARatio" : 0.7921,
+        "powerPlayPercentage" : "11.0",
+        "powerPlayGoals" : 15.0,
+        "powerPlayGoalsAgainst" : 33.0,
+        "powerPlayOpportunities" : 136.0,
+        "penaltyKillPercentage" : "76.3",
+        "shotsPerGame" : 27.3878,
+        "shotsAllowed" : 31.3061,
+        "winScoreFirst" : 0.545,
+        "winOppScoreFirst" : 0.185,
+        "winLeadFirstPer" : 0.692,
+        "winLeadSecondPer" : 0.875,
+        "winOutshootOpp" : 0.316,
+        "winOutshotByOpp" : 0.367,
+        "faceOffsTaken" : 2674.0,
+        "faceOffsWon" : 1341.0,
+        "faceOffsLost" : 1333.0,
+        "faceOffWinPercentage" : "50.1",
+        "shootingPctg" : 8.4,
+        "savePctg" : 0.9
+      },
+      "team" : {
+        "id" : 17,
+        "name" : "Detroit Red Wings",
+        "link" : "/api/v1/teams/17"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "25th",
+        "losses" : "26th",
+        "ot" : "5th",
+        "pts" : "22nd",
+        "ptPctg" : "26th",
+        "goalsPerGame" : "30th",
+        "goalsAgainstPerGame" : "22nd",
+        "evGGARatio" : "25th",
+        "powerPlayPercentage" : "30th",
+        "powerPlayGoals" : "30th",
+        "powerPlayGoalsAgainst" : "27th",
+        "powerPlayOpportunities" : "19th",
+        "penaltyKillOpportunities" : "13th",
+        "penaltyKillPercentage" : "26th",
+        "shotsPerGame" : "29th",
+        "shotsAllowed" : "25th",
+        "winScoreFirst" : "23rd",
+        "winOppScoreFirst" : "23rd",
+        "winLeadFirstPer" : "22nd",
+        "winLeadSecondPer" : "14th",
+        "winOutshootOpp" : "26th",
+        "winOutshotByOpp" : "26th",
+        "faceOffsTaken" : "7th",
+        "faceOffsWon" : "8th",
+        "faceOffsLost" : "20th",
+        "faceOffWinPercentage" : "16th",
+        "savePctRank" : "20th",
+        "shootingPctRank" : "29th"
+      },
+      "team" : {
+        "id" : 17,
+        "name" : "Detroit Red Wings",
+        "link" : "/api/v1/teams/17"
+      }
+    } ]
+  } ]
+}

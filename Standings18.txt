@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 48,
+        "wins" : 25,
+        "losses" : 21,
+        "ot" : 2,
+        "pts" : 52,
+        "ptPctg" : "54.2",
+        "goalsPerGame" : 2.604,
+        "goalsAgainstPerGame" : 2.854,
+        "evGGARatio" : 1.0482,
+        "powerPlayPercentage" : "18.0",
+        "powerPlayGoals" : 25.0,
+        "powerPlayGoalsAgainst" : 37.0,
+        "powerPlayOpportunities" : 139.0,
+        "penaltyKillPercentage" : "75.7",
+        "shotsPerGame" : 29.8542,
+        "shotsAllowed" : 31.0208,
+        "winScoreFirst" : 0.722,
+        "winOppScoreFirst" : 0.4,
+        "winLeadFirstPer" : 0.8,
+        "winLeadSecondPer" : 0.923,
+        "winOutshootOpp" : 0.542,
+        "winOutshotByOpp" : 0.478,
+        "faceOffsTaken" : 2721.0,
+        "faceOffsWon" : 1408.0,
+        "faceOffsLost" : 1313.0,
+        "faceOffWinPercentage" : "51.8",
+        "shootingPctg" : 8.7,
+        "savePctg" : 0.908
+      },
+      "team" : {
+        "id" : 18,
+        "name" : "Nashville Predators",
+        "link" : "/api/v1/teams/18"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "14th",
+        "losses" : "22nd",
+        "ot" : "31st",
+        "pts" : "15th",
+        "ptPctg" : "17th",
+        "goalsPerGame" : "23rd",
+        "goalsAgainstPerGame" : "16th",
+        "evGGARatio" : "16th",
+        "powerPlayPercentage" : "23rd",
+        "powerPlayGoals" : "21st",
+        "powerPlayGoalsAgainst" : "30th",
+        "powerPlayOpportunities" : "14th",
+        "penaltyKillOpportunities" : "29th",
+        "penaltyKillPercentage" : "29th",
+        "shotsPerGame" : "14th",
+        "shotsAllowed" : "23rd",
+        "winScoreFirst" : "20th",
+        "winOppScoreFirst" : "4th",
+        "winLeadFirstPer" : "10th",
+        "winLeadSecondPer" : "6th",
+        "winOutshootOpp" : "14th",
+        "winOutshotByOpp" : "14th",
+        "faceOffsTaken" : "3rd",
+        "faceOffsWon" : "4th",
+        "faceOffsLost" : "16th",
+        "faceOffWinPercentage" : "6th",
+        "savePctRank" : "12th",
+        "shootingPctRank" : "24th"
+      },
+      "team" : {
+        "id" : 18,
+        "name" : "Nashville Predators",
+        "link" : "/api/v1/teams/18"
+      }
+    } ]
+  } ]
+}

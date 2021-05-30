@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 46,
+        "wins" : 29,
+        "losses" : 13,
+        "ot" : 4,
+        "pts" : 62,
+        "ptPctg" : "67.4",
+        "goalsPerGame" : 2.804,
+        "goalsAgainstPerGame" : 2.283,
+        "evGGARatio" : 1.3067,
+        "powerPlayPercentage" : "17.5",
+        "powerPlayGoals" : 22.0,
+        "powerPlayGoalsAgainst" : 20.0,
+        "powerPlayOpportunities" : 126.0,
+        "penaltyKillPercentage" : "82.5",
+        "shotsPerGame" : 29.1522,
+        "shotsAllowed" : 28.0,
+        "winScoreFirst" : 0.87,
+        "winOppScoreFirst" : 0.391,
+        "winLeadFirstPer" : 0.85,
+        "winLeadSecondPer" : 0.929,
+        "winOutshootOpp" : 0.72,
+        "winOutshotByOpp" : 0.526,
+        "faceOffsTaken" : 2425.0,
+        "faceOffsWon" : 1242.0,
+        "faceOffsLost" : 1183.0,
+        "faceOffWinPercentage" : "51.2",
+        "shootingPctg" : 9.6,
+        "savePctg" : 0.918
+      },
+      "team" : {
+        "id" : 2,
+        "name" : "New York Islanders",
+        "link" : "/api/v1/teams/2"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "6th",
+        "losses" : "6th",
+        "ot" : "20th",
+        "pts" : "5th",
+        "ptPctg" : "6th",
+        "goalsPerGame" : "17th",
+        "goalsAgainstPerGame" : "2nd",
+        "evGGARatio" : "4th",
+        "powerPlayPercentage" : "25th",
+        "powerPlayGoals" : "25th",
+        "powerPlayGoalsAgainst" : "3rd",
+        "powerPlayOpportunities" : "25th",
+        "penaltyKillOpportunities" : "1st",
+        "penaltyKillPercentage" : "10th",
+        "shotsPerGame" : "23rd",
+        "shotsAllowed" : "5th",
+        "winScoreFirst" : "5th",
+        "winOppScoreFirst" : "8th",
+        "winLeadFirstPer" : "5th",
+        "winLeadSecondPer" : "5th",
+        "winOutshootOpp" : "4th",
+        "winOutshotByOpp" : "4th",
+        "faceOffsTaken" : "26th",
+        "faceOffsWon" : "19th",
+        "faceOffsLost" : "5th",
+        "faceOffWinPercentage" : "10th",
+        "savePctRank" : "2nd",
+        "shootingPctRank" : "13th"
+      },
+      "team" : {
+        "id" : 2,
+        "name" : "New York Islanders",
+        "link" : "/api/v1/teams/2"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 48,
+        "wins" : 30,
+        "losses" : 13,
+        "ot" : 5,
+        "pts" : 65,
+        "ptPctg" : "67.7",
+        "goalsPerGame" : 3.188,
+        "goalsAgainstPerGame" : 2.667,
+        "evGGARatio" : 1.2179,
+        "powerPlayPercentage" : "20.8",
+        "powerPlayGoals" : 33.0,
+        "powerPlayGoalsAgainst" : 29.0,
+        "powerPlayOpportunities" : 159.0,
+        "penaltyKillPercentage" : "79.4",
+        "shotsPerGame" : 34.0417,
+        "shotsAllowed" : 30.3333,
+        "winScoreFirst" : 0.696,
+        "winOppScoreFirst" : 0.56,
+        "winLeadFirstPer" : 0.667,
+        "winLeadSecondPer" : 0.917,
+        "winOutshootOpp" : 0.567,
+        "winOutshotByOpp" : 0.75,
+        "faceOffsTaken" : 2876.0,
+        "faceOffsWon" : 1455.0,
+        "faceOffsLost" : 1421.0,
+        "faceOffWinPercentage" : "50.6",
+        "shootingPctg" : 9.4,
+        "savePctg" : 0.912
+      },
+      "team" : {
+        "id" : 13,
+        "name" : "Florida Panthers",
+        "link" : "/api/v1/teams/13"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "4th",
+        "losses" : "5th",
+        "ot" : "14th",
+        "pts" : "3rd",
+        "ptPctg" : "7th",
+        "goalsPerGame" : "10th",
+        "goalsAgainstPerGame" : "10th",
+        "evGGARatio" : "11th",
+        "powerPlayPercentage" : "13th",
+        "powerPlayGoals" : "9th",
+        "powerPlayGoalsAgainst" : "17th",
+        "powerPlayOpportunities" : "2nd",
+        "penaltyKillOpportunities" : "19th",
+        "penaltyKillPercentage" : "16th",
+        "shotsPerGame" : "2nd",
+        "shotsAllowed" : "16th",
+        "winScoreFirst" : "15th",
+        "winOppScoreFirst" : "1st",
+        "winLeadFirstPer" : "26th",
+        "winLeadSecondPer" : "9th",
+        "winOutshootOpp" : "11th",
+        "winOutshotByOpp" : "11th",
+        "faceOffsTaken" : "1st",
+        "faceOffsWon" : "2nd",
+        "faceOffsLost" : "28th",
+        "faceOffWinPercentage" : "13th",
+        "savePctRank" : "7th",
+        "shootingPctRank" : "16th"
+      },
+      "team" : {
+        "id" : 13,
+        "name" : "Florida Panthers",
+        "link" : "/api/v1/teams/13"
+      }
+    } ]
+  } ]
+}

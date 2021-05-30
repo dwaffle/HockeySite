@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 47,
+        "wins" : 23,
+        "losses" : 18,
+        "ot" : 6,
+        "pts" : 52,
+        "ptPctg" : "55.3",
+        "goalsPerGame" : 3.255,
+        "goalsAgainstPerGame" : 2.66,
+        "evGGARatio" : 1.1512,
+        "powerPlayPercentage" : "20.1",
+        "powerPlayGoals" : 32.0,
+        "powerPlayGoalsAgainst" : 23.0,
+        "powerPlayOpportunities" : 159.0,
+        "penaltyKillPercentage" : "83.9",
+        "shotsPerGame" : 29.2553,
+        "shotsAllowed" : 29.0638,
+        "winScoreFirst" : 0.654,
+        "winOppScoreFirst" : 0.286,
+        "winLeadFirstPer" : 0.714,
+        "winLeadSecondPer" : 0.792,
+        "winOutshootOpp" : 0.55,
+        "winOutshotByOpp" : 0.5,
+        "faceOffsTaken" : 2567.0,
+        "faceOffsWon" : 1145.0,
+        "faceOffsLost" : 1422.0,
+        "faceOffWinPercentage" : "44.6",
+        "shootingPctg" : 11.1,
+        "savePctg" : 0.908
+      },
+      "team" : {
+        "id" : 3,
+        "name" : "New York Rangers",
+        "link" : "/api/v1/teams/3"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "15th",
+        "losses" : "16th",
+        "ot" : "9th",
+        "pts" : "14th",
+        "ptPctg" : "15th",
+        "goalsPerGame" : "7th",
+        "goalsAgainstPerGame" : "9th",
+        "evGGARatio" : "13th",
+        "powerPlayPercentage" : "17th",
+        "powerPlayGoals" : "10th",
+        "powerPlayGoalsAgainst" : "7th",
+        "powerPlayOpportunities" : "3rd",
+        "penaltyKillOpportunities" : "25th",
+        "penaltyKillPercentage" : "5th",
+        "shotsPerGame" : "23rd",
+        "shotsAllowed" : "11th",
+        "winScoreFirst" : "14th",
+        "winOppScoreFirst" : "19th",
+        "winLeadFirstPer" : "17th",
+        "winLeadSecondPer" : "25th",
+        "winOutshootOpp" : "13th",
+        "winOutshotByOpp" : "13th",
+        "faceOffsTaken" : "17th",
+        "faceOffsWon" : "31st",
+        "faceOffsLost" : "29th",
+        "faceOffWinPercentage" : "31st",
+        "savePctRank" : "11th",
+        "shootingPctRank" : "4th"
+      },
+      "team" : {
+        "id" : 3,
+        "name" : "New York Rangers",
+        "link" : "/api/v1/teams/3"
+      }
+    } ]
+  } ]
+}

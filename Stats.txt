@@ -1,0 +1,1349 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "records" : [ {
+    "standingsType" : "regularSeason",
+    "league" : {
+      "id" : 133,
+      "name" : "National Hockey League",
+      "link" : "/api/v1/league/133"
+    },
+    "division" : {
+      "id" : 27,
+      "name" : "Honda West",
+      "link" : "/api/v1/divisions/27"
+    },
+    "conference" : {
+      "id" : 0,
+      "name" : "",
+      "link" : "/api/v1/conferences/0"
+    },
+    "teamRecords" : [ {
+      "team" : {
+        "id" : 54,
+        "name" : "Vegas Golden Knights",
+        "link" : "/api/v1/teams/54"
+      },
+      "leagueRecord" : {
+        "wins" : 33,
+        "losses" : 11,
+        "ot" : 2,
+        "type" : "league"
+      },
+      "regulationWins" : 26,
+      "goalsAgainst" : 102,
+      "goalsScored" : 155,
+      "points" : 68,
+      "divisionRank" : "1",
+      "divisionL10Rank" : "2",
+      "divisionRoadRank" : "1",
+      "divisionHomeRank" : "2",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "1",
+      "leagueL10Rank" : "2",
+      "leagueRoadRank" : "5",
+      "leagueHomeRank" : "4",
+      "wildCardRank" : "0",
+      "row" : 32,
+      "gamesPlayed" : 46,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 8,
+        "streakCode" : "W8"
+      },
+      "clinchIndicator" : "x",
+      "pointsPercentage" : 0.7391304347826086,
+      "ppDivisionRank" : "2",
+      "ppConferenceRank" : "2",
+      "ppLeagueRank" : "2",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 21,
+        "name" : "Colorado Avalanche",
+        "link" : "/api/v1/teams/21"
+      },
+      "leagueRecord" : {
+        "wins" : 31,
+        "losses" : 9,
+        "ot" : 4,
+        "type" : "league"
+      },
+      "regulationWins" : 28,
+      "goalsAgainst" : 103,
+      "goalsScored" : 158,
+      "points" : 66,
+      "divisionRank" : "2",
+      "divisionL10Rank" : "1",
+      "divisionRoadRank" : "2",
+      "divisionHomeRank" : "1",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "3",
+      "leagueL10Rank" : "1",
+      "leagueRoadRank" : "8",
+      "leagueHomeRank" : "3",
+      "wildCardRank" : "0",
+      "row" : 31,
+      "gamesPlayed" : 44,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 5,
+        "streakCode" : "W5"
+      },
+      "clinchIndicator" : "x",
+      "pointsPercentage" : 0.75,
+      "ppDivisionRank" : "1",
+      "ppConferenceRank" : "1",
+      "ppLeagueRank" : "1",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 30,
+        "name" : "Minnesota Wild",
+        "link" : "/api/v1/teams/30"
+      },
+      "leagueRecord" : {
+        "wins" : 29,
+        "losses" : 13,
+        "ot" : 3,
+        "type" : "league"
+      },
+      "regulationWins" : 24,
+      "goalsAgainst" : 118,
+      "goalsScored" : 141,
+      "points" : 61,
+      "divisionRank" : "3",
+      "divisionL10Rank" : "3",
+      "divisionRoadRank" : "3",
+      "divisionHomeRank" : "3",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "10",
+      "leagueL10Rank" : "4",
+      "leagueRoadRank" : "12",
+      "leagueHomeRank" : "8",
+      "wildCardRank" : "0",
+      "row" : 28,
+      "gamesPlayed" : 45,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 5,
+        "streakCode" : "W5"
+      },
+      "pointsPercentage" : 0.6777777777777778,
+      "ppDivisionRank" : "3",
+      "ppConferenceRank" : "6",
+      "ppLeagueRank" : "6",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 53,
+        "name" : "Arizona Coyotes",
+        "link" : "/api/v1/teams/53"
+      },
+      "leagueRecord" : {
+        "wins" : 20,
+        "losses" : 22,
+        "ot" : 5,
+        "type" : "league"
+      },
+      "regulationWins" : 16,
+      "goalsAgainst" : 150,
+      "goalsScored" : 124,
+      "points" : 45,
+      "divisionRank" : "4",
+      "divisionL10Rank" : "7",
+      "divisionRoadRank" : "8",
+      "divisionHomeRank" : "4",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "20",
+      "leagueL10Rank" : "28",
+      "leagueRoadRank" : "24",
+      "leagueHomeRank" : "18",
+      "wildCardRank" : "0",
+      "row" : 17,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 2,
+        "streakCode" : "L2"
+      },
+      "pointsPercentage" : 0.4787234042553192,
+      "ppDivisionRank" : "5",
+      "ppConferenceRank" : "22",
+      "ppLeagueRank" : "22",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 19,
+        "name" : "St. Louis Blues",
+        "link" : "/api/v1/teams/19"
+      },
+      "leagueRecord" : {
+        "wins" : 19,
+        "losses" : 19,
+        "ot" : 6,
+        "type" : "league"
+      },
+      "regulationWins" : 13,
+      "goalsAgainst" : 139,
+      "goalsScored" : 126,
+      "points" : 44,
+      "divisionRank" : "5",
+      "divisionL10Rank" : "6",
+      "divisionRoadRank" : "4",
+      "divisionHomeRank" : "7",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "21",
+      "leagueL10Rank" : "26",
+      "leagueRoadRank" : "15",
+      "leagueHomeRank" : "28",
+      "wildCardRank" : "0",
+      "row" : 17,
+      "gamesPlayed" : 44,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 3,
+        "streakCode" : "L3"
+      },
+      "pointsPercentage" : 0.5,
+      "ppDivisionRank" : "4",
+      "ppConferenceRank" : "20",
+      "ppLeagueRank" : "20",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 28,
+        "name" : "San Jose Sharks",
+        "link" : "/api/v1/teams/28"
+      },
+      "leagueRecord" : {
+        "wins" : 18,
+        "losses" : 23,
+        "ot" : 5,
+        "type" : "league"
+      },
+      "regulationWins" : 12,
+      "goalsAgainst" : 157,
+      "goalsScored" : 122,
+      "points" : 41,
+      "divisionRank" : "6",
+      "divisionL10Rank" : "8",
+      "divisionRoadRank" : "5",
+      "divisionHomeRank" : "6",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "23",
+      "leagueL10Rank" : "29",
+      "leagueRoadRank" : "20",
+      "leagueHomeRank" : "27",
+      "wildCardRank" : "0",
+      "row" : 13,
+      "gamesPlayed" : 46,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.44565217391304346,
+      "ppDivisionRank" : "7",
+      "ppConferenceRank" : "25",
+      "ppLeagueRank" : "25",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 26,
+        "name" : "Los Angeles Kings",
+        "link" : "/api/v1/teams/26"
+      },
+      "leagueRecord" : {
+        "wins" : 17,
+        "losses" : 20,
+        "ot" : 6,
+        "type" : "league"
+      },
+      "regulationWins" : 15,
+      "goalsAgainst" : 128,
+      "goalsScored" : 118,
+      "points" : 40,
+      "divisionRank" : "7",
+      "divisionL10Rank" : "4",
+      "divisionRoadRank" : "7",
+      "divisionHomeRank" : "5",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "25",
+      "leagueL10Rank" : "22",
+      "leagueRoadRank" : "23",
+      "leagueHomeRank" : "26",
+      "wildCardRank" : "0",
+      "row" : 16,
+      "gamesPlayed" : 43,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.46511627906976744,
+      "ppDivisionRank" : "6",
+      "ppConferenceRank" : "24",
+      "ppLeagueRank" : "24",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 24,
+        "name" : "Anaheim Ducks",
+        "link" : "/api/v1/teams/24"
+      },
+      "leagueRecord" : {
+        "wins" : 14,
+        "losses" : 26,
+        "ot" : 7,
+        "type" : "league"
+      },
+      "regulationWins" : 9,
+      "goalsAgainst" : 151,
+      "goalsScored" : 104,
+      "points" : 35,
+      "divisionRank" : "8",
+      "divisionL10Rank" : "5",
+      "divisionRoadRank" : "6",
+      "divisionHomeRank" : "8",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "29",
+      "leagueL10Rank" : "25",
+      "leagueRoadRank" : "22",
+      "leagueHomeRank" : "30",
+      "wildCardRank" : "0",
+      "row" : 13,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 3,
+        "streakCode" : "L3"
+      },
+      "pointsPercentage" : 0.3723404255319149,
+      "ppDivisionRank" : "8",
+      "ppConferenceRank" : "29",
+      "ppLeagueRank" : "29",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    } ]
+  }, {
+    "standingsType" : "regularSeason",
+    "league" : {
+      "id" : 133,
+      "name" : "National Hockey League",
+      "link" : "/api/v1/league/133"
+    },
+    "division" : {
+      "id" : 26,
+      "name" : "Discover Central",
+      "link" : "/api/v1/divisions/26"
+    },
+    "conference" : {
+      "id" : 0,
+      "name" : "",
+      "link" : "/api/v1/conferences/0"
+    },
+    "teamRecords" : [ {
+      "team" : {
+        "id" : 12,
+        "name" : "Carolina Hurricanes",
+        "link" : "/api/v1/teams/12"
+      },
+      "leagueRecord" : {
+        "wins" : 31,
+        "losses" : 10,
+        "ot" : 5,
+        "type" : "league"
+      },
+      "regulationWins" : 23,
+      "goalsAgainst" : 110,
+      "goalsScored" : 150,
+      "points" : 67,
+      "divisionRank" : "1",
+      "divisionL10Rank" : "1",
+      "divisionRoadRank" : "1",
+      "divisionHomeRank" : "1",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "2",
+      "leagueL10Rank" : "3",
+      "leagueRoadRank" : "4",
+      "leagueHomeRank" : "5",
+      "wildCardRank" : "0",
+      "row" : 27,
+      "gamesPlayed" : 46,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 2,
+        "streakCode" : "W2"
+      },
+      "pointsPercentage" : 0.7282608695652174,
+      "ppDivisionRank" : "1",
+      "ppConferenceRank" : "3",
+      "ppLeagueRank" : "3",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 13,
+        "name" : "Florida Panthers",
+        "link" : "/api/v1/teams/13"
+      },
+      "leagueRecord" : {
+        "wins" : 30,
+        "losses" : 13,
+        "ot" : 5,
+        "type" : "league"
+      },
+      "regulationWins" : 22,
+      "goalsAgainst" : 130,
+      "goalsScored" : 154,
+      "points" : 65,
+      "divisionRank" : "2",
+      "divisionL10Rank" : "5",
+      "divisionRoadRank" : "2",
+      "divisionHomeRank" : "3",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "4",
+      "leagueL10Rank" : "17",
+      "leagueRoadRank" : "6",
+      "leagueHomeRank" : "7",
+      "wildCardRank" : "0",
+      "row" : 29,
+      "gamesPlayed" : 48,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.6770833333333334,
+      "ppDivisionRank" : "3",
+      "ppConferenceRank" : "7",
+      "ppLeagueRank" : "7",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 14,
+        "name" : "Tampa Bay Lightning",
+        "link" : "/api/v1/teams/14"
+      },
+      "leagueRecord" : {
+        "wins" : 31,
+        "losses" : 14,
+        "ot" : 2,
+        "type" : "league"
+      },
+      "regulationWins" : 25,
+      "goalsAgainst" : 122,
+      "goalsScored" : 156,
+      "points" : 64,
+      "divisionRank" : "3",
+      "divisionL10Rank" : "7",
+      "divisionRoadRank" : "3",
+      "divisionHomeRank" : "2",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "5",
+      "leagueL10Rank" : "20",
+      "leagueRoadRank" : "10",
+      "leagueHomeRank" : "6",
+      "wildCardRank" : "0",
+      "row" : 30,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.6808510638297872,
+      "ppDivisionRank" : "2",
+      "ppConferenceRank" : "4",
+      "ppLeagueRank" : "4",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 18,
+        "name" : "Nashville Predators",
+        "link" : "/api/v1/teams/18"
+      },
+      "leagueRecord" : {
+        "wins" : 26,
+        "losses" : 21,
+        "ot" : 2,
+        "type" : "league"
+      },
+      "regulationWins" : 18,
+      "goalsAgainst" : 138,
+      "goalsScored" : 133,
+      "points" : 54,
+      "divisionRank" : "4",
+      "divisionL10Rank" : "3",
+      "divisionRoadRank" : "4",
+      "divisionHomeRank" : "5",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "15",
+      "leagueL10Rank" : "10",
+      "leagueRoadRank" : "16",
+      "leagueHomeRank" : "14",
+      "wildCardRank" : "0",
+      "row" : 21,
+      "gamesPlayed" : 49,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.5510204081632653,
+      "ppDivisionRank" : "4",
+      "ppConferenceRank" : "15",
+      "ppLeagueRank" : "15",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 25,
+        "name" : "Dallas Stars",
+        "link" : "/api/v1/teams/25"
+      },
+      "leagueRecord" : {
+        "wins" : 19,
+        "losses" : 15,
+        "ot" : 12,
+        "type" : "league"
+      },
+      "regulationWins" : 16,
+      "goalsAgainst" : 120,
+      "goalsScored" : 133,
+      "points" : 50,
+      "divisionRank" : "5",
+      "divisionL10Rank" : "2",
+      "divisionRoadRank" : "6",
+      "divisionHomeRank" : "4",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "16",
+      "leagueL10Rank" : "6",
+      "leagueRoadRank" : "26",
+      "leagueHomeRank" : "9",
+      "wildCardRank" : "0",
+      "row" : 17,
+      "gamesPlayed" : 46,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.5434782608695652,
+      "ppDivisionRank" : "5",
+      "ppConferenceRank" : "17",
+      "ppLeagueRank" : "17",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 16,
+        "name" : "Chicago Blackhawks",
+        "link" : "/api/v1/teams/16"
+      },
+      "leagueRecord" : {
+        "wins" : 22,
+        "losses" : 21,
+        "ot" : 5,
+        "type" : "league"
+      },
+      "regulationWins" : 14,
+      "goalsAgainst" : 151,
+      "goalsScored" : 135,
+      "points" : 49,
+      "divisionRank" : "6",
+      "divisionL10Rank" : "6",
+      "divisionRoadRank" : "5",
+      "divisionHomeRank" : "6",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "19",
+      "leagueL10Rank" : "19",
+      "leagueRoadRank" : "19",
+      "leagueHomeRank" : "16",
+      "wildCardRank" : "0",
+      "row" : 20,
+      "gamesPlayed" : 48,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.5104166666666666,
+      "ppDivisionRank" : "6",
+      "ppConferenceRank" : "19",
+      "ppLeagueRank" : "19",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 17,
+        "name" : "Detroit Red Wings",
+        "link" : "/api/v1/teams/17"
+      },
+      "leagueRecord" : {
+        "wins" : 17,
+        "losses" : 25,
+        "ot" : 7,
+        "type" : "league"
+      },
+      "regulationWins" : 15,
+      "goalsAgainst" : 156,
+      "goalsScored" : 114,
+      "points" : 41,
+      "divisionRank" : "7",
+      "divisionL10Rank" : "4",
+      "divisionRoadRank" : "8",
+      "divisionHomeRank" : "7",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "24",
+      "leagueL10Rank" : "15",
+      "leagueRoadRank" : "31",
+      "leagueHomeRank" : "17",
+      "wildCardRank" : "0",
+      "row" : 16,
+      "gamesPlayed" : 49,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.41836734693877553,
+      "ppDivisionRank" : "7",
+      "ppConferenceRank" : "26",
+      "ppLeagueRank" : "26",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 29,
+        "name" : "Columbus Blue Jackets",
+        "link" : "/api/v1/teams/29"
+      },
+      "leagueRecord" : {
+        "wins" : 15,
+        "losses" : 25,
+        "ot" : 9,
+        "type" : "league"
+      },
+      "regulationWins" : 11,
+      "goalsAgainst" : 166,
+      "goalsScored" : 118,
+      "points" : 39,
+      "divisionRank" : "8",
+      "divisionL10Rank" : "8",
+      "divisionRoadRank" : "7",
+      "divisionHomeRank" : "8",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "27",
+      "leagueL10Rank" : "30",
+      "leagueRoadRank" : "29",
+      "leagueHomeRank" : "22",
+      "wildCardRank" : "0",
+      "row" : 13,
+      "gamesPlayed" : 49,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 5,
+        "streakCode" : "L5"
+      },
+      "pointsPercentage" : 0.3979591836734694,
+      "ppDivisionRank" : "8",
+      "ppConferenceRank" : "28",
+      "ppLeagueRank" : "28",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    } ]
+  }, {
+    "standingsType" : "regularSeason",
+    "league" : {
+      "id" : 133,
+      "name" : "National Hockey League",
+      "link" : "/api/v1/league/133"
+    },
+    "division" : {
+      "id" : 25,
+      "name" : "MassMutual East",
+      "link" : "/api/v1/divisions/25"
+    },
+    "conference" : {
+      "id" : 0,
+      "name" : "",
+      "link" : "/api/v1/conferences/0"
+    },
+    "teamRecords" : [ {
+      "team" : {
+        "id" : 15,
+        "name" : "Washington Capitals",
+        "link" : "/api/v1/teams/15"
+      },
+      "leagueRecord" : {
+        "wins" : 30,
+        "losses" : 13,
+        "ot" : 4,
+        "type" : "league"
+      },
+      "regulationWins" : 24,
+      "goalsAgainst" : 141,
+      "goalsScored" : 164,
+      "points" : 64,
+      "divisionRank" : "1",
+      "divisionL10Rank" : "5",
+      "divisionRoadRank" : "1",
+      "divisionHomeRank" : "4",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "6",
+      "leagueL10Rank" : "13",
+      "leagueRoadRank" : "1",
+      "leagueHomeRank" : "12",
+      "wildCardRank" : "0",
+      "row" : 27,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.6808510638297872,
+      "ppDivisionRank" : "1",
+      "ppConferenceRank" : "5",
+      "ppLeagueRank" : "5",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 5,
+        "name" : "Pittsburgh Penguins",
+        "link" : "/api/v1/teams/5"
+      },
+      "leagueRecord" : {
+        "wins" : 30,
+        "losses" : 14,
+        "ot" : 3,
+        "type" : "league"
+      },
+      "regulationWins" : 23,
+      "goalsAgainst" : 133,
+      "goalsScored" : 164,
+      "points" : 63,
+      "divisionRank" : "2",
+      "divisionL10Rank" : "3",
+      "divisionRoadRank" : "5",
+      "divisionHomeRank" : "2",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "8",
+      "leagueL10Rank" : "8",
+      "leagueRoadRank" : "17",
+      "leagueHomeRank" : "2",
+      "wildCardRank" : "0",
+      "row" : 27,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 2,
+        "streakCode" : "W2"
+      },
+      "pointsPercentage" : 0.6702127659574468,
+      "ppDivisionRank" : "2",
+      "ppConferenceRank" : "9",
+      "ppLeagueRank" : "9",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 2,
+        "name" : "New York Islanders",
+        "link" : "/api/v1/teams/2"
+      },
+      "leagueRecord" : {
+        "wins" : 29,
+        "losses" : 13,
+        "ot" : 5,
+        "type" : "league"
+      },
+      "regulationWins" : 21,
+      "goalsAgainst" : 107,
+      "goalsScored" : 133,
+      "points" : 63,
+      "divisionRank" : "3",
+      "divisionL10Rank" : "4",
+      "divisionRoadRank" : "7",
+      "divisionHomeRank" : "1",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "9",
+      "leagueL10Rank" : "12",
+      "leagueRoadRank" : "21",
+      "leagueHomeRank" : "1",
+      "wildCardRank" : "0",
+      "row" : 25,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "ot",
+        "streakNumber" : 1,
+        "streakCode" : "OT1"
+      },
+      "pointsPercentage" : 0.6702127659574468,
+      "ppDivisionRank" : "3",
+      "ppConferenceRank" : "10",
+      "ppLeagueRank" : "10",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 6,
+        "name" : "Boston Bruins",
+        "link" : "/api/v1/teams/6"
+      },
+      "leagueRecord" : {
+        "wins" : 27,
+        "losses" : 13,
+        "ot" : 6,
+        "type" : "league"
+      },
+      "regulationWins" : 20,
+      "goalsAgainst" : 117,
+      "goalsScored" : 136,
+      "points" : 60,
+      "divisionRank" : "4",
+      "divisionL10Rank" : "1",
+      "divisionRoadRank" : "2",
+      "divisionHomeRank" : "3",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "11",
+      "leagueL10Rank" : "5",
+      "leagueRoadRank" : "7",
+      "leagueHomeRank" : "10",
+      "wildCardRank" : "0",
+      "row" : 23,
+      "gamesPlayed" : 46,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.6521739130434783,
+      "ppDivisionRank" : "4",
+      "ppConferenceRank" : "11",
+      "ppLeagueRank" : "11",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 3,
+        "name" : "New York Rangers",
+        "link" : "/api/v1/teams/3"
+      },
+      "leagueRecord" : {
+        "wins" : 24,
+        "losses" : 18,
+        "ot" : 6,
+        "type" : "league"
+      },
+      "regulationWins" : 21,
+      "goalsAgainst" : 128,
+      "goalsScored" : 158,
+      "points" : 54,
+      "divisionRank" : "5",
+      "divisionL10Rank" : "2",
+      "divisionRoadRank" : "4",
+      "divisionHomeRank" : "5",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "14",
+      "leagueL10Rank" : "7",
+      "leagueRoadRank" : "14",
+      "leagueHomeRank" : "15",
+      "wildCardRank" : "0",
+      "row" : 23,
+      "gamesPlayed" : 48,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.5625,
+      "ppDivisionRank" : "5",
+      "ppConferenceRank" : "14",
+      "ppLeagueRank" : "14",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 4,
+        "name" : "Philadelphia Flyers",
+        "link" : "/api/v1/teams/4"
+      },
+      "leagueRecord" : {
+        "wins" : 21,
+        "losses" : 19,
+        "ot" : 7,
+        "type" : "league"
+      },
+      "regulationWins" : 14,
+      "goalsAgainst" : 168,
+      "goalsScored" : 132,
+      "points" : 49,
+      "divisionRank" : "6",
+      "divisionL10Rank" : "7",
+      "divisionRoadRank" : "3",
+      "divisionHomeRank" : "6",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "18",
+      "leagueL10Rank" : "24",
+      "leagueRoadRank" : "13",
+      "leagueHomeRank" : "25",
+      "wildCardRank" : "0",
+      "row" : 19,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.5212765957446809,
+      "ppDivisionRank" : "6",
+      "ppConferenceRank" : "18",
+      "ppLeagueRank" : "18",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 1,
+        "name" : "New Jersey Devils",
+        "link" : "/api/v1/teams/1"
+      },
+      "leagueRecord" : {
+        "wins" : 14,
+        "losses" : 26,
+        "ot" : 6,
+        "type" : "league"
+      },
+      "regulationWins" : 11,
+      "goalsAgainst" : 162,
+      "goalsScored" : 116,
+      "points" : 34,
+      "divisionRank" : "7",
+      "divisionL10Rank" : "8",
+      "divisionRoadRank" : "6",
+      "divisionHomeRank" : "8",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "30",
+      "leagueL10Rank" : "31",
+      "leagueRoadRank" : "18",
+      "leagueHomeRank" : "31",
+      "wildCardRank" : "0",
+      "row" : 14,
+      "gamesPlayed" : 46,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 8,
+        "streakCode" : "L8"
+      },
+      "pointsPercentage" : 0.3695652173913043,
+      "ppDivisionRank" : "7",
+      "ppConferenceRank" : "30",
+      "ppLeagueRank" : "30",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 7,
+        "name" : "Buffalo Sabres",
+        "link" : "/api/v1/teams/7"
+      },
+      "leagueRecord" : {
+        "wins" : 13,
+        "losses" : 28,
+        "ot" : 7,
+        "type" : "league"
+      },
+      "regulationWins" : 10,
+      "goalsAgainst" : 165,
+      "goalsScored" : 118,
+      "points" : 33,
+      "divisionRank" : "8",
+      "divisionL10Rank" : "6",
+      "divisionRoadRank" : "8",
+      "divisionHomeRank" : "7",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "31",
+      "leagueL10Rank" : "21",
+      "leagueRoadRank" : "27",
+      "leagueHomeRank" : "29",
+      "wildCardRank" : "0",
+      "row" : 10,
+      "gamesPlayed" : 48,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.34375,
+      "ppDivisionRank" : "8",
+      "ppConferenceRank" : "31",
+      "ppLeagueRank" : "31",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    } ]
+  }, {
+    "standingsType" : "regularSeason",
+    "league" : {
+      "id" : 133,
+      "name" : "National Hockey League",
+      "link" : "/api/v1/league/133"
+    },
+    "division" : {
+      "id" : 28,
+      "name" : "Scotia North",
+      "link" : "/api/v1/divisions/28"
+    },
+    "conference" : {
+      "id" : 0,
+      "name" : "",
+      "link" : "/api/v1/conferences/0"
+    },
+    "teamRecords" : [ {
+      "team" : {
+        "id" : 10,
+        "name" : "Toronto Maple Leafs",
+        "link" : "/api/v1/teams/10"
+      },
+      "leagueRecord" : {
+        "wins" : 29,
+        "losses" : 13,
+        "ot" : 5,
+        "type" : "league"
+      },
+      "regulationWins" : 23,
+      "goalsAgainst" : 129,
+      "goalsScored" : 155,
+      "points" : 63,
+      "divisionRank" : "1",
+      "divisionL10Rank" : "3",
+      "divisionRoadRank" : "2",
+      "divisionHomeRank" : "1",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "7",
+      "leagueL10Rank" : "14",
+      "leagueRoadRank" : "3",
+      "leagueHomeRank" : "11",
+      "wildCardRank" : "0",
+      "row" : 28,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.6702127659574468,
+      "ppDivisionRank" : "1",
+      "ppConferenceRank" : "8",
+      "ppLeagueRank" : "8",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 52,
+        "name" : "Winnipeg Jets",
+        "link" : "/api/v1/teams/52"
+      },
+      "leagueRecord" : {
+        "wins" : 27,
+        "losses" : 16,
+        "ot" : 3,
+        "type" : "league"
+      },
+      "regulationWins" : 21,
+      "goalsAgainst" : 125,
+      "goalsScored" : 147,
+      "points" : 57,
+      "divisionRank" : "2",
+      "divisionL10Rank" : "4",
+      "divisionRoadRank" : "1",
+      "divisionHomeRank" : "3",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "12",
+      "leagueL10Rank" : "16",
+      "leagueRoadRank" : "2",
+      "leagueHomeRank" : "19",
+      "wildCardRank" : "0",
+      "row" : 27,
+      "gamesPlayed" : 46,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 2,
+        "streakCode" : "L2"
+      },
+      "pointsPercentage" : 0.6195652173913043,
+      "ppDivisionRank" : "3",
+      "ppConferenceRank" : "13",
+      "ppLeagueRank" : "13",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 22,
+        "name" : "Edmonton Oilers",
+        "link" : "/api/v1/teams/22"
+      },
+      "leagueRecord" : {
+        "wins" : 27,
+        "losses" : 16,
+        "ot" : 2,
+        "type" : "league"
+      },
+      "regulationWins" : 25,
+      "goalsAgainst" : 125,
+      "goalsScored" : 144,
+      "points" : 56,
+      "divisionRank" : "3",
+      "divisionL10Rank" : "1",
+      "divisionRoadRank" : "3",
+      "divisionHomeRank" : "2",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "13",
+      "leagueL10Rank" : "9",
+      "leagueRoadRank" : "9",
+      "leagueHomeRank" : "13",
+      "wildCardRank" : "0",
+      "row" : 27,
+      "gamesPlayed" : 45,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.6222222222222222,
+      "ppDivisionRank" : "2",
+      "ppConferenceRank" : "12",
+      "ppLeagueRank" : "12",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 8,
+        "name" : "Montréal Canadiens",
+        "link" : "/api/v1/teams/8"
+      },
+      "leagueRecord" : {
+        "wins" : 20,
+        "losses" : 16,
+        "ot" : 9,
+        "type" : "league"
+      },
+      "regulationWins" : 18,
+      "goalsAgainst" : 130,
+      "goalsScored" : 132,
+      "points" : 49,
+      "divisionRank" : "4",
+      "divisionL10Rank" : "7",
+      "divisionRoadRank" : "4",
+      "divisionHomeRank" : "6",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "17",
+      "leagueL10Rank" : "27",
+      "leagueRoadRank" : "11",
+      "leagueHomeRank" : "23",
+      "wildCardRank" : "0",
+      "row" : 19,
+      "gamesPlayed" : 45,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.5444444444444444,
+      "ppDivisionRank" : "4",
+      "ppConferenceRank" : "16",
+      "ppLeagueRank" : "16",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 20,
+        "name" : "Calgary Flames",
+        "link" : "/api/v1/teams/20"
+      },
+      "leagueRecord" : {
+        "wins" : 20,
+        "losses" : 23,
+        "ot" : 3,
+        "type" : "league"
+      },
+      "regulationWins" : 17,
+      "goalsAgainst" : 135,
+      "goalsScored" : 122,
+      "points" : 43,
+      "divisionRank" : "5",
+      "divisionL10Rank" : "6",
+      "divisionRoadRank" : "5",
+      "divisionHomeRank" : "5",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "22",
+      "leagueL10Rank" : "23",
+      "leagueRoadRank" : "25",
+      "leagueHomeRank" : "21",
+      "wildCardRank" : "0",
+      "row" : 19,
+      "gamesPlayed" : 46,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 1,
+        "streakCode" : "W1"
+      },
+      "pointsPercentage" : 0.4673913043478261,
+      "ppDivisionRank" : "6",
+      "ppConferenceRank" : "23",
+      "ppLeagueRank" : "23",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 23,
+        "name" : "Vancouver Canucks",
+        "link" : "/api/v1/teams/23"
+      },
+      "leagueRecord" : {
+        "wins" : 18,
+        "losses" : 19,
+        "ot" : 3,
+        "type" : "league"
+      },
+      "regulationWins" : 12,
+      "goalsAgainst" : 128,
+      "goalsScored" : 109,
+      "points" : 39,
+      "divisionRank" : "6",
+      "divisionL10Rank" : "2",
+      "divisionRoadRank" : "7",
+      "divisionHomeRank" : "4",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "26",
+      "leagueL10Rank" : "11",
+      "leagueRoadRank" : "30",
+      "leagueHomeRank" : "20",
+      "wildCardRank" : "0",
+      "row" : 15,
+      "gamesPlayed" : 40,
+      "streak" : {
+        "streakType" : "losses",
+        "streakNumber" : 1,
+        "streakCode" : "L1"
+      },
+      "pointsPercentage" : 0.4875,
+      "ppDivisionRank" : "5",
+      "ppConferenceRank" : "21",
+      "ppLeagueRank" : "21",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    }, {
+      "team" : {
+        "id" : 9,
+        "name" : "Ottawa Senators",
+        "link" : "/api/v1/teams/9"
+      },
+      "leagueRecord" : {
+        "wins" : 17,
+        "losses" : 26,
+        "ot" : 4,
+        "type" : "league"
+      },
+      "regulationWins" : 13,
+      "goalsAgainst" : 166,
+      "goalsScored" : 129,
+      "points" : 38,
+      "divisionRank" : "7",
+      "divisionL10Rank" : "5",
+      "divisionRoadRank" : "6",
+      "divisionHomeRank" : "7",
+      "conferenceRank" : "0",
+      "conferenceL10Rank" : "0",
+      "conferenceRoadRank" : "0",
+      "conferenceHomeRank" : "0",
+      "leagueRank" : "28",
+      "leagueL10Rank" : "18",
+      "leagueRoadRank" : "28",
+      "leagueHomeRank" : "24",
+      "wildCardRank" : "0",
+      "row" : 15,
+      "gamesPlayed" : 47,
+      "streak" : {
+        "streakType" : "wins",
+        "streakNumber" : 3,
+        "streakCode" : "W3"
+      },
+      "pointsPercentage" : 0.40425531914893614,
+      "ppDivisionRank" : "7",
+      "ppConferenceRank" : "27",
+      "ppLeagueRank" : "27",
+      "lastUpdated" : "2021-04-23T22:37:27Z"
+    } ]
+  } ]
+}

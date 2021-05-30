@@ -1,0 +1,92 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "stats" : [ {
+    "type" : {
+      "displayName" : "statsSingleSeason",
+      "gameType" : {
+        "id" : "R",
+        "description" : "Regular season",
+        "postseason" : false
+      }
+    },
+    "splits" : [ {
+      "stat" : {
+        "gamesPlayed" : 48,
+        "wins" : 15,
+        "losses" : 24,
+        "ot" : 9,
+        "pts" : 39,
+        "ptPctg" : "40.6",
+        "goalsPerGame" : 2.396,
+        "goalsAgainstPerGame" : 3.333,
+        "evGGARatio" : 0.7119,
+        "powerPlayPercentage" : "14.3",
+        "powerPlayGoals" : 15.0,
+        "powerPlayGoalsAgainst" : 24.0,
+        "powerPlayOpportunities" : 105.0,
+        "penaltyKillPercentage" : "79.3",
+        "shotsPerGame" : 29.0417,
+        "shotsAllowed" : 32.0,
+        "winScoreFirst" : 0.429,
+        "winOppScoreFirst" : 0.15,
+        "winLeadFirstPer" : 0.529,
+        "winLeadSecondPer" : 0.75,
+        "winOutshootOpp" : 0.273,
+        "winOutshotByOpp" : 0.353,
+        "faceOffsTaken" : 2635.0,
+        "faceOffsWon" : 1201.0,
+        "faceOffsLost" : 1434.0,
+        "faceOffWinPercentage" : "45.6",
+        "shootingPctg" : 8.2,
+        "savePctg" : 0.896
+      },
+      "team" : {
+        "id" : 29,
+        "name" : "Columbus Blue Jackets",
+        "link" : "/api/v1/teams/29"
+      }
+    } ]
+  }, {
+    "type" : {
+      "displayName" : "regularSeasonStatRankings",
+      "gameType" : null
+    },
+    "splits" : [ {
+      "stat" : {
+        "wins" : "28th",
+        "losses" : "26th",
+        "ot" : "3rd",
+        "pts" : "25th",
+        "ptPctg" : "26th",
+        "goalsPerGame" : "28th",
+        "goalsAgainstPerGame" : "27th",
+        "evGGARatio" : "30th",
+        "powerPlayPercentage" : "28th",
+        "powerPlayGoals" : "30th",
+        "powerPlayGoalsAgainst" : "11th",
+        "powerPlayOpportunities" : "31st",
+        "penaltyKillOpportunities" : "2nd",
+        "penaltyKillPercentage" : "16th",
+        "shotsPerGame" : "25th",
+        "shotsAllowed" : "27th",
+        "winScoreFirst" : "23rd",
+        "winOppScoreFirst" : "28th",
+        "winLeadFirstPer" : "30th",
+        "winLeadSecondPer" : "27th",
+        "winOutshootOpp" : "29th",
+        "winOutshotByOpp" : "29th",
+        "faceOffsTaken" : "6th",
+        "faceOffsWon" : "26th",
+        "faceOffsLost" : "31st",
+        "faceOffWinPercentage" : "30th",
+        "savePctRank" : "27th",
+        "shootingPctRank" : "29th"
+      },
+      "team" : {
+        "id" : 29,
+        "name" : "Columbus Blue Jackets",
+        "link" : "/api/v1/teams/29"
+      }
+    } ]
+  } ]
+}
