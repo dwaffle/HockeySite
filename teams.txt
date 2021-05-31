@@ -1173,5 +1173,26 @@
     "officialSiteUrl" : "http://www.vegasgoldenknights.com/",
     "franchiseId" : 38,
     "active" : true
+  }, {
+    "id" : 55,
+    "name" : "Seattle Kraken",
+    "link" : "/api/v1/teams/55",
+    "abbreviation" : "SEA",
+    "teamName" : "Kraken",
+    "locationName" : "Seattle",
+    "division" : {
+      "link" : "/api/v1/divisions/null"
+    },
+    "conference" : {
+      "link" : "/api/v1/conferences/null"
+    },
+    "franchise" : {
+      "franchiseId" : 39,
+      "teamName" : "Kraken",
+      "link" : "/api/v1/franchises/39"
+    },
+    "officialSiteUrl" : "https://www.nhl.com/seattle",
+    "franchiseId" : 39,
+    "active" : false
   } ]
 }

@@ -61,7 +61,7 @@
         $utf = utf8_encode($json);
         $obj = json_decode($utf);
         //For offseason, delayed games, or other oddities.
-          if($obj === null){
+          if(!isset($obj->teams[0]->nextGameSchedule,)){
             echo("<div class='games' style='text-align: center'>No games scheduled</div>");
             exit();
         }  
